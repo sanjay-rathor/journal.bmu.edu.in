@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd080721.chunk.css",
+    "main.js": "/static/js/main.41254353.chunk.js",
+    "main.js.map": "/static/js/main.41254353.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ebd3747.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ebd3747.js.map",
+    "static/css/2.81df9be0.chunk.css": "/static/css/2.81df9be0.chunk.css",
+    "static/js/2.bd8efce0.chunk.js": "/static/js/2.bd8efce0.chunk.js",
+    "static/js/2.bd8efce0.chunk.js.map": "/static/js/2.bd8efce0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e755aae332ceb48834547bfcd26911d2.js": "/precache-manifest.e755aae332ceb48834547bfcd26911d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.81df9be0.chunk.css.map": "/static/css/2.81df9be0.chunk.css.map",
+    "static/css/main.fd080721.chunk.css.map": "/static/css/main.fd080721.chunk.css.map",
+    "static/js/2.bd8efce0.chunk.js.LICENSE.txt": "/static/js/2.bd8efce0.chunk.js.LICENSE.txt",
+    "static/media/AppTheme.scss": "/static/media/A4.60bc5c83.png",
+    "static/media/D3_jbe-100.jpg": "/static/media/D3_jbe-100.4afd09f6.jpg",
+    "static/media/Journal_Horizontal_Stip_ Website.png": "/static/media/Journal_Horizontal_Stip_ Website.91b198e8.png",
+    "static/media/favicon.ico": "/static/media/favicon.92d0f701.ico",
+    "static/media/journal_cover.png": "/static/media/journal_cover.c4bb3b6b.png",
+    "static/media/pdf.svg": "/static/media/pdf.3d3c5429.svg",
+    "static/media/tall_journal_cover.png": "/static/media/tall_journal_cover.38b89dc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ebd3747.js",
+    "static/css/2.81df9be0.chunk.css",
+    "static/js/2.bd8efce0.chunk.js",
+    "static/css/main.fd080721.chunk.css",
+    "static/js/main.41254353.chunk.js"
+  ]
+}

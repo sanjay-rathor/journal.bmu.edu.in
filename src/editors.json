@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Charlotte Karam",
+      "designation":"​Ian Telfer Professorship in Inclusive Human Resource Systems​,Associate Professor",
+      "description": "Telfer School of Management, University of Ottawa AND Olayan School of Business, American University of Beirut. Canada & Lebanon",
+      "email" : "ckaram@uottawa.ca; ck16@aub.edu.lb"
+    },
+    {
+      "name": "Chris Frost",
+      "designation":"Professor Emeritus of Journalism",
+      "description": "John Moores University, Liverpool. UK",
+      "email" : "C.P.Frost@ljmu.ac.uk"
+    },
+    {
+      "name": "Dharm P S Bhawuk",
+      "designation":"Professor",
+      "description": "University of Hawaiʻi at Mānoa. USA",
+      "email" : "bhawuk@hawaii.edu"
+    },
+    {
+      "name": "Fr Oswald A J Mascarenhas, S J.",
+      "designation":"JRD Tata Chair in Business Ethics",
+      "description": "XLRI, Jamshedpur. India",
+      "email" : "ozzie@xlri.ac.in"
+    },
+    {
+      "name": "Jerry Biberman",
+      "designation":"Emeritus Professor of Management",
+      "description": "University of Scranton. USA",
+      "email" : "gerald.biberman@scranton.edu"
+    },
+    {
+      "name": "Mary C Gentile",
+      "designation":"Creator/Director, Giving Voice To Values Richard M. Waitzer Bicentennial Professor of Ethics",
+      "description": "University of Virginia-Darden School of Business. USA",
+      "email" : "GentileM@darden.virginia.edu"
+    },
+    {
+      "name": "Mathew J Manimala",
+      "designation":"Former Director",
+      "description": "XIME, Bangalore. India",
+      "email" : "manimala.mathew@gmail.com"
+    },
+    {
+      "name": "Michael Pirson",
+      "designation":"Professor, Fordham university and Research Fellow at Harvard University",
+      "description": "Fordham University. USA",
+      "email": "pirson@fordham.edu"
+    },
+    {
+      "name": "Mrinalini Kochupillai",
+      "designation":"Faculty",
+      "description": "Munich Intellectual Property Law Centre. Germany",
+      "email" : "m.kochupillai@tum.de"
+    },
+    {
+      "name": "Peter Bamberger",
+      "designation":"Domberger Chair in Organization and Management; Head, Dep't. of Management",
+      "description": "Tel Aviv University. Israel",
+      "email" : "peterb@tauex.tau.ac.il"
+    },
+    {
+      "name": "Peter Pruzan",
+      "designation":"Professor Emeritus",
+      "description": "Copenhagen Business School. Denmark",
+      "email" : "pp.mpp@cbs.dk"
+    }, 
+    {
+      "name" : "Vishal Talwar",
+      "designation" : "Director",
+      "description" : "IMT. India",
+      "email" : "diroffice@imt.edu"
+    }
+  ]

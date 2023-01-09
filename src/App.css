@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #FFFFFF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.abstract-title {
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+.separator {
+  padding: 5px;
+}
+.title-margin {
+  margin-top: 4px;
+}
+.badge-primary {
+  letter-spacing: 0.4px;
+}
+.download-btn {
+  font-size: 14px;
+}
