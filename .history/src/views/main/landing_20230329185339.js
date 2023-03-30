@@ -14,11 +14,8 @@ import SubmissionGuidelines from "../home/submissionGuidelines";
 import AuthorResponsibility from "../home/authorResponsibility";
 import RightsAndPermission from "../home/rightsAndPermission";
 import Subscription from "../home/subcription";
-import ContactUs from "../home/contactUs";
 import BookCover from "../../images/book-cover-study-education-book store .png";
-// import classes from "./landing.module.css";
-import Logo from "../../images/bml-color-logo.png";
-
+import Logo from "./Logo"
 export default function Landing(props) {
   const currentRoute = window.location.pathname;
   //  console.log("Current Route " + currentRoute);
@@ -26,8 +23,10 @@ export default function Landing(props) {
     <div className="auth-wrapper App">
       <div className="auth-inner">
         <div className="cover row margin-zero ">
-          <div className="col-md-12 row cover-imag ">
-            <div className="col-md-2">&nbsp;</div>
+          <div className="col-md-12 cover-imag ">
+            <div className="col-md-4">
+                <img src="" alt="" />
+            </div>
             <div className="col-md-8">
               <div className=" row justify-content-md-center margin-zero">
                 <div className="col-md-12 title">
@@ -65,9 +64,6 @@ export default function Landing(props) {
                 </div>
               </div>
             </div>
-            <div className="col-md-2">
-              <img src={Logo} alt="" width="100%" />
-            </div>
           </div>
         </div>
         <div className="row margin-zero custom-top-margin">
@@ -97,7 +93,7 @@ export default function Landing(props) {
                   href="/editorial-board"
                   className="nav-link-tab"
                 >
-                  Advisory and Editorial Board
+                  Editorial Board
                 </Nav.Link>
               </Nav.Item>
               {/* <Nav.Item>
@@ -166,15 +162,6 @@ export default function Landing(props) {
                   Rights and Permissions
                 </Nav.Link>
               </Nav.Item>
-              <Nav.Item>
-                <Nav.Link
-                  eventKey="/contact-us"
-                  href="/contact-us"
-                  className="nav-link-tab"
-                >
-                  Contact Us
-                </Nav.Link>
-              </Nav.Item>
             </Nav>
           </div>
         </div>
@@ -233,11 +220,6 @@ export default function Landing(props) {
             {currentRoute == "/subscription" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <Subscription />
-              </div>
-            )}
-            {currentRoute == "/contact-us" && (
-              <div className="custom-top-margin custom-bottom-margin">
-                <ContactUs />
               </div>
             )}
           </div>

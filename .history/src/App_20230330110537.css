@@ -52,20 +52,4 @@
   font-size: 14px;
 }
 
-.nav-link
-{
-  padding: 0.5rem 0.8rem;
-}
-.header strong
-{
-  font-size:25px;
-}
-.header span
-{
-  font-size:15px;
-}
-.subbody-content > div
-{
-  width: max-content;
-  margin: 0 auto;
-}
+.nav

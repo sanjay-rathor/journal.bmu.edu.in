@@ -21,7 +21,7 @@ export default function EditorialBoard() {
                     <div className="col-md-9 col-sm-12 body-container ">
                         <div className="row">
                             <div className="col-md-12 content-text">
-                               <h5>Advisory Board</h5>
+                               <h5>International Advisory Board</h5>
                             </div>
                         </div>
                         <div className="row " >

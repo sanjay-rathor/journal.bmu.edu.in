@@ -235,9 +235,9 @@ export default function Landing(props) {
                 <Subscription />
               </div>
             )}
-            {currentRoute == "/contact-us" && (
+            {currentRoute == "/subscription" && (
               <div className="custom-top-margin custom-bottom-margin">
-                <ContactUs />
+                <Subscription />
               </div>
             )}
           </div>

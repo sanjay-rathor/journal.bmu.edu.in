@@ -14,7 +14,6 @@ import SubmissionGuidelines from "../home/submissionGuidelines";
 import AuthorResponsibility from "../home/authorResponsibility";
 import RightsAndPermission from "../home/rightsAndPermission";
 import Subscription from "../home/subcription";
-import ContactUs from "../home/contactUs";
 import BookCover from "../../images/book-cover-study-education-book store .png";
 // import classes from "./landing.module.css";
 import Logo from "../../images/bml-color-logo.png";
@@ -97,7 +96,7 @@ export default function Landing(props) {
                   href="/editorial-board"
                   className="nav-link-tab"
                 >
-                  Advisory and Editorial Board
+                  Advisory Editorial Board
                 </Nav.Link>
               </Nav.Item>
               {/* <Nav.Item>
@@ -166,15 +165,6 @@ export default function Landing(props) {
                   Rights and Permissions
                 </Nav.Link>
               </Nav.Item>
-              <Nav.Item>
-                <Nav.Link
-                  eventKey="/contact-us"
-                  href="/contact-us"
-                  className="nav-link-tab"
-                >
-                  Contact Us
-                </Nav.Link>
-              </Nav.Item>
             </Nav>
           </div>
         </div>
@@ -233,11 +223,6 @@ export default function Landing(props) {
             {currentRoute == "/subscription" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <Subscription />
-              </div>
-            )}
-            {currentRoute == "/contact-us" && (
-              <div className="custom-top-margin custom-bottom-margin">
-                <ContactUs />
               </div>
             )}
           </div>

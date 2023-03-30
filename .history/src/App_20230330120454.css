@@ -58,14 +58,9 @@
 }
 .header strong
 {
-  font-size:25px;
+  font-size:35px;
 }
 .header span
 {
-  font-size:15px;
-}
-.subbody-content > div
-{
-  width: max-content;
-  margin: 0 auto;
+  font-size:25px;
 }
