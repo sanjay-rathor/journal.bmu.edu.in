@@ -31,7 +31,7 @@ export default function RightSideSection() {
                             </a></Badge>
                                 </div>
                                 <div className="col-md-12 custom-padding">
-                                    <span className="sub-subtitle"> <a href="journal-files/Special issue-October.pdf" target="_blank"> Papers for Special Issue</a><br></br> April, 2023</span>
+                                    <span className="sub-subtitle"> <a href="journal-files/Special issue-October.pdf" target="_blank"> Papers for Special Issue</a><br></br> October, 2023</span>
                                 </div>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ export default function RightSideSection() {
                                     <Badge className="side-heading" variant="primary">Subscription</Badge>
                                 </div>
                                 <div className="col-md-12 custom-padding">
-                                    <span className="subscribe-subtitle">To subscribe to the journal, please send an email to <a href="emailTo:monoj.dutta@bmu.edu.in">monoj.dutta@bmu.edu.in</a> address</span>
+                                    <span className="subscribe-subtitle">To subscribe to the journal, please send an email to <a href="emailTo:library@bmu.edu.in">library@bmu.edu.in</a> address</span>
                                 </div>
                                 
                             </div>

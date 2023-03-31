@@ -45,7 +45,7 @@ export default function LandingJournal() {
                                                 </span>
                                             </span>
                                             <br></br>
-                                            <span className="content-label">Vol 2. Issue 2 - October 2022
+                                            <span className="content-label">Vol 3. Issue 1 - April 2023
                                             </span>
                                             <br></br>
                                             <br></br>
