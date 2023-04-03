@@ -110,8 +110,7 @@ export default function LandingJournal() {
                   </Nav.Item>
                 </Nav>
               </div>
-              {latestArticles.map((article, ele) => {
-                if (ele < 6) {
+              {latestArticles.map((article) => {
                   return (
                     <div className="col-md-12 content-text">
                       <Card
@@ -135,7 +134,6 @@ export default function LandingJournal() {
                       </Card>
                     </div>
                   );
-                }
               })}
             </div>
             <div className="row">
