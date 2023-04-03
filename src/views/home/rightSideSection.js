@@ -31,7 +31,8 @@ export default function RightSideSection() {
                             </a></Badge>
                                 </div>
                                 <div className="col-md-12 custom-padding">
-                                    <span className="sub-subtitle"> <a href="journal-files/Special issue-October.pdf" target="_blank"> Papers for Special Issue</a><br></br> October, 2023</span>
+                                    <span className="sub-subtitle"> <a href="journal-files/Special issue-October.pdf" target="_blank"> Papers for Special Issue</a><br></br> October, 2023</span><br/>
+                                    <span className="sub-subtitle">Towards a Sustainable Society: Role of Education in the Post-Pandemic Era</span>
                                 </div>
                             </div>
                         </div>

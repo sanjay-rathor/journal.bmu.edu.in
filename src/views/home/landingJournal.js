@@ -160,7 +160,7 @@ export default function LandingJournal() {
                 <div className="row">
                   <div className="col-md-12 ">
                     <span className="content-tab-title">
-                      International Advisory Board
+                      Advisory Board
                     </span>
                   </div>
                   <div className="col-md-12 ">
