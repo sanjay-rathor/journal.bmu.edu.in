@@ -1,29 +1,38 @@
 [
     {
         "name" : "Payal Kumar",
-        "title" : "Founding chief editor: Payal Kumar, Professor and Chair HR/OB, Associate Dean, International Affairs, BML Munjal University, India"
+        "title" : "Editor-in-chief, JBES; Principal Academic Advsior, ISH"
     },
     {
-        "name" : "Amitabh Anand",
-        "title" : "Assistant Professor, SKEMA Business School, France"
+        "name" : "Sangita Dutta Gupta",
+        "title" : "Assistant Dean-Research"
     },
     {
-        "name" : "Dominic Thomas-James",
-        "title" : "Dominic Thomas-James, Course Director, International Development, University of Cambridge Institute of Continuing Education, UK and Global Justice Fellow, Yale University, USA"
+        "name" : "Ritu Chhikara",
+        "title" : "Associate Professor-SOM"
     },
     {
-        "name" : "Amit Nandkeolyar",
-        "title" : "Associate Professor at Indian Institute of Management Ahmedabad, India"
+        "name" : "Ruchi Garg",
+        "title" : "Associate Professor-SOM"
     },
     {
-        "name" :"Nigam Nuggehalli",
-        "title" : "Dean of School of Law, BML Munjal University, India"
+        "name" : "Chhayabrita Maji",
+        "title" : "Associate Professor-SOET"
     },
     {
-        "name": "Sukhbir Sandhu",
-        "title" : "Associate Professor, University of South Australia, Australia"
-    }, {
-        "name" : "Elva A. Resendez",
-        "title" : "Ph.D, Visiting Assistant Professor, Doermer School of Business, Fort Wayne, USA (Book editor)"
+        "name" : "Vikas Kathuria",
+        "title" : "Associate Professor-SOL"
+    },
+    {
+        "name" : "Patch Aure",
+        "title" : "Special Issues Editor -JBES Vice-Chair and Associate Professor (DMO/MOD)"
+    },
+    {
+        "name" : "Elva Anne Resendez",
+        "title" : "Book Editor-JBES Clinical Assistant Professor in Management and Director of Accreditation"
+    },
+    {
+        "name" : "Aditya Agrawal",
+        "title" : "Assistant Professor (HRM)"
     }
 ]
