@@ -35,7 +35,6 @@ export default function EditorialBoard() {
                                         <div className="d-flex w-100 justify-content-between name-box">
                                           <h5 className="mb-1">{item.name}</h5>
                                         </div>
-
                                         <p className="mb-1 editor-about">
                                         {item.description}
                                        </p>
