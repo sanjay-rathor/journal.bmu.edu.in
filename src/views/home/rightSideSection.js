@@ -52,10 +52,10 @@ export default function RightSideSection() {
                   <br></br> October, 2023
                 </span>
                 <br />
-                <span className="sub-subtitle">
+                <p className="sub-subtitle2">
                   Theme - Towards a Sustainable Society: Role of Education in
                   the Post-Pandemic Era
-                </span>
+                </p>
               </div>
             </div>
           </div>
