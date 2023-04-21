@@ -1,38 +1,47 @@
 [
     {
         "name" : "Payal Kumar",
-        "title" : "Editor-in-chief, JBES; Principal Academic Advsior, ISH"
+        "title" : "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India ",
+        "email" : "payalk1@gmail.com"
     },
     {
         "name" : "Sangita Dutta Gupta",
-        "title" : "Assistant Dean-Research"
+        "title" : "Assistant Dean, Research, BML Munjal University, India",
+        "email" : "sangita.dgupta@bmu.edu.in"
     },
     {
         "name" : "Ritu Chhikara",
-        "title" : "Associate Professor-SOM"
+        "title" : "Associate Professor, BML Munjal University, India",
+        "email" : "ritu.chhikara@bmu.edu.in"
     },
     {
         "name" : "Ruchi Garg",
-        "title" : "Associate Professor-SOM"
+        "title" : "Associate Professor, BML Munjal University, India",
+        "email" : "ruchi.garg@bmu.edu.in"
     },
     {
         "name" : "Chhayabrita Maji",
-        "title" : "Associate Professor-SOET"
+        "title" : "Associate Professor, BML Munjal University, India",
+        "email" : "chhayabrita.maji@bmu.edu.in"
     },
     {
         "name" : "Vikas Kathuria",
-        "title" : "Associate Professor-SOL"
+        "title" : "Associate Professor, BML Munjal University, India",
+        "email" : "vikas.kathuria@bmu.edu.in"
     },
     {
         "name" : "Patch Aure",
-        "title" : "Special Issues Editor -JBES Vice-Chair and Associate Professor (DMO/MOD)"
+        "title" : "Special Issues Editor-JBES, Vice-Chair and Associate Professor (DMO/MOD), De La Salle University, Philippines",
+        "email" : "patrick.aure@dlsu.edu.ph"
     },
     {
         "name" : "Elva Anne Resendez",
-        "title" : "Book Editor-JBES Clinical Assistant Professor in Management and Director of Accreditation"
+        "title" : "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
+        "email" : "elva.resendez@pfw.edu"
     },
     {
         "name" : "Aditya Agrawal",
-        "title" : "Assistant Professor (HRM)"
+        "title" : "Assistant Professor (HRM), Flame University, India",
+        "email" : "adiagr@gmail.com"
     }
 ]
