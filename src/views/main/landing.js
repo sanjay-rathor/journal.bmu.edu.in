@@ -5,6 +5,7 @@ import SearchBar from "./searchbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import LandingJournal from "../home/landingJournal";
 import EditorialBoard from "../home/editorialBoard";
+import AdvisoryBoard from "../home/advisoryBoard";
 import AimScope from "../home/aimScope";
 import BrowseJournal from "../home/browseJournal";
 import BrowseJournalIssue2 from "../home/browseJounalIssue2";
@@ -32,7 +33,7 @@ export default function Landing(props) {
             <div className="col-md-8">
               <div className=" row justify-content-md-center margin-zero">
                 <div className="col-md-12 title">
-                  Journal of Business, Ethics and Society.
+                  Journal of Business, Ethics and Society
                 </div>
                 <div className="col-md-12 subtile">
                   {/* The Multidisciplinary Journal of the Society for Business Ethics */}
@@ -80,7 +81,7 @@ export default function Landing(props) {
             >
               <Nav.Item>
                 <Nav.Link eventKey="/" href="/" className="nav-link-tab">
-                  Journal Home
+                  Home
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item>
@@ -89,7 +90,16 @@ export default function Landing(props) {
                   href="/aim-and-scope"
                   className="nav-link-tab"
                 >
-                  Aims and Scope
+                  Aims & Scope
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link
+                  eventKey="/advisory-board"
+                  href="/advisory-board"
+                  className="nav-link-tab"
+                >
+                  Advisory Board
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item>
@@ -98,16 +108,17 @@ export default function Landing(props) {
                   href="/editorial-board"
                   className="nav-link-tab"
                 >
-                  Advisory and Editorial Board
+                  Editorial Board
                 </Nav.Link>
               </Nav.Item>
+              
               {/* <Nav.Item>
                                 <Nav.Link eventKey="/browse-journal" href="/browse-journal" className="nav-link-tab">
                                     Browse Journal
                             </Nav.Link>
                             </Nav.Item> */}
               <NavDropdown
-                title="Browse Journal"
+                title="Archives"
                 id="nav-dropdown"
                 className="dropdown-nav-link"
               >
@@ -171,7 +182,7 @@ export default function Landing(props) {
                   href="/right-and-permissions"
                   className="nav-link-tab"
                 >
-                  Rights and Permissions
+                  Rights & Permissions
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item>
@@ -180,7 +191,7 @@ export default function Landing(props) {
                   href="/contact-us"
                   className="nav-link-tab"
                 >
-                  Contact Us
+                  Contact
                 </Nav.Link>
               </Nav.Item>
             </Nav>
@@ -196,6 +207,11 @@ export default function Landing(props) {
             {currentRoute == "/aim-and-scope" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <AimScope />
+              </div>
+            )}
+            {currentRoute == "/advisory-board" && (
+              <div className="custom-top-margin custom-bottom-margin">
+                <AdvisoryBoard />
               </div>
             )}
             {currentRoute == "/editorial-board" && (

@@ -29,7 +29,7 @@ export default function ContactUs() {
                   <div className="subbody-content aims container">
                     <div>
                       <p className="header">
-                        <strong>Dr. Jaydev B Kumbar</strong>
+                        <strong>Dr. Jayadev B Kumbar</strong>
                         <br />
                         <span>Deputy Librarian</span>
                       </p>
@@ -41,7 +41,7 @@ export default function ContactUs() {
                       </h4>
                     </div>
                   </div>
-                  {/* <div className="row " >
+                  {/* <div className="row">
                             <div className="col-md-12">
                                <ArticlesGridContainer />
                             </div>
