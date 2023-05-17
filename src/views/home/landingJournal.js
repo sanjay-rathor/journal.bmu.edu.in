@@ -64,7 +64,7 @@ export default function LandingJournal() {
                         inter-disciplinary peer-reviewed journal from BML Munjal
                         University that publishes theoretical and empirical
                         research on a broad range of topics concerning business
-                        management, business ethics and societal well-being. The
+                        management, business ethics and societal well-being. The journal started its operation in 2021. The
                         double-blind peer-reviewed journal broadly focuses on
                         the intersectionality of ethics and businesses, ethics
                         and civil societies, and also on topics such as

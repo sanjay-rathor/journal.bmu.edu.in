@@ -18,6 +18,7 @@ import RightsAndPermission from "../home/rightsAndPermission";
 import Subscription from "../home/subcription";
 import ContactUs from "../home/contactUs";
 import BookCover from "../../images/book-cover-study-education-book store .png";
+import Publisher from "../home/publisher";
 // import classes from "./landing.module.css";
 import Logo from "../../images/bml-color-logo.png";
 
@@ -109,6 +110,15 @@ export default function Landing(props) {
                   className="nav-link-tab"
                 >
                   Editorial Board
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link
+                  eventKey="/publisher"
+                  href="/publisher"
+                  className="nav-link-tab"
+                >
+                  Publisher
                 </Nav.Link>
               </Nav.Item>
               
@@ -217,6 +227,11 @@ export default function Landing(props) {
             {currentRoute == "/editorial-board" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <EditorialBoard />
+              </div>
+            )}
+            {currentRoute == "/publisher" && (
+              <div className="custom-top-margin custom-bottom-margin">
+                <Publisher />
               </div>
             )}
             {currentRoute == "/browse-journal" && (
