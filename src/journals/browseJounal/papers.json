@@ -74,45 +74,9 @@
     ]
   },
   {
-    "title": "Tae Wan Kim: Artificial Intelligence in the workplace, through an ethical lens",
-    "type": "Practioner Perspective",
-    "link": "journal-files/Interview-AI-in-workplace.pdf",
-    "author": {
-      "name": "Elva A. Resendez, PhD",
-      "name_raw": "Elva A. Resendez, PhD"
-    },
-    "abstract": [
-      "Artificial intelligence today continues to assimilate into our modern service industry occupations such as business, economics and health care.  It is predicted that AI will continue to develop exponentially as a business staple and will follow a similar path to The Internet and Social Media in terms of growth opportunities and also the criticality to business.  The concern for many, including Dr. Tae Wan Kim, associate professor of ethics at Carnegie Mellon University, is how the ethics of AI will affect individuals and society. In his recent book review, Machines Like Me, Kim writes on the varied ethical systems potentially used in AI training as he discusses the character development of the text.  Whether a deontological approach or a consequentialist approach, AI is only as good as the training and the data provided.  In this interview he says that to really address ethics issues in AI, much more funding should be given to moral philosophy and applied ethics."
-    ]
-  },
-  {
-    "title": "Christian U. Becker, Business Ethics: Methods and Application. ",
-    "type": "Book Review",
-    "link": "journal-files/Book-review-of-Christian-Becker-by-Aguiling.pdf",
-    "author": {
-      "name": "Maria Adiel H. Aguiling ",
-      "name_raw": "Maria Adiel H. Aguiling "
-    }
-  },
-  {
-    "title": "Oswald A. J. Mascarenhas, Corporate Ethics for Turbulent. Markets (vols 1 & 2)",
-    "type": "Book Review",
-    "link": "journal-files/Book-review-Corporate-Ethics-for-Turbulent-Markets.pdf",
-    "author": {
-      "name": "Anabel Benjamin Bara"
-    }
-  },
-  {
-    "title": "Bernard Mees. The rise of business ethics.",
-    "type": "Book Review",
-    "link": "journal-files/Book-review-rise-business-ethics.pdf",
-    "author": {
-      "name": "Retchell L, Morales"
-    }
-  },
-  {
     "title": "Institutional Void to Institutional Work: Study of Digital Finance in India",
     "type": "Research Paper",
+    "link": "journal-files/Institutional Void.pdf",
     "author": {
       "name": "Dr. Anirudh Agrawal, Dr. Kristjan Johannes Suse Jespersen, Dr. Keerti Pendyal",
       "name_raw": "Anirudh Agrawal, Kristjan Johannes Suse Jespersen, Keerti Pendyal",
@@ -154,5 +118,43 @@
       "Rural",
       "Social Embarrassment"
     ]
+  },
+  {
+    "title": "Tae Wan Kim: Artificial Intelligence in the workplace, through an ethical lens",
+    "type": "Practioner Perspective",
+    "link": "journal-files/Interview-AI-in-workplace.pdf",
+    "author": {
+      "name": "Elva A. Resendez, PhD",
+      "name_raw": "Elva A. Resendez, PhD"
+    },
+    "abstract": [
+      "Artificial intelligence today continues to assimilate into our modern service industry occupations such as business, economics and health care.  It is predicted that AI will continue to develop exponentially as a business staple and will follow a similar path to The Internet and Social Media in terms of growth opportunities and also the criticality to business.  The concern for many, including Dr. Tae Wan Kim, associate professor of ethics at Carnegie Mellon University, is how the ethics of AI will affect individuals and society. In his recent book review, Machines Like Me, Kim writes on the varied ethical systems potentially used in AI training as he discusses the character development of the text.  Whether a deontological approach or a consequentialist approach, AI is only as good as the training and the data provided.  In this interview he says that to really address ethics issues in AI, much more funding should be given to moral philosophy and applied ethics."
+    ]
+  },
+  {
+    "title": "Christian U. Becker, Business Ethics: Methods and Application. ",
+    "type": "Book Review",
+    "link": "journal-files/Book-review-of-Christian-Becker-by-Aguiling.pdf",
+    "author": {
+      "name": "Maria Adiel H. Aguiling ",
+      "name_raw": "Maria Adiel H. Aguiling "
+    }
+  },
+  {
+    "title": "Oswald A. J. Mascarenhas, Corporate Ethics for Turbulent. Markets (vols 1 & 2)",
+    "type": "Book Review",
+    "link": "journal-files/Book-review-Corporate-Ethics-for-Turbulent-Markets.pdf",
+    "author": {
+      "name": "Anabel Benjamin Bara"
+    }
+  },
+  {
+    "title": "Bernard Mees. The rise of business ethics.",
+    "type": "Book Review",
+    "link": "journal-files/Book-review-rise-business-ethics.pdf",
+    "author": {
+      "name": "Retchell L, Morales"
+    }
   }
+
 ]
