@@ -2,14 +2,12 @@
   {
     "title": "Managing for the Common Good:  Catholic Social Teachings and Ethical Management Practice",
     "type": "Research Paper",
-    "issue2" :true,
+    "issue2": true,
     "link": "journal-files/Managing-for-the-Common-Good.pdf",
     "author": {
       "name": "Mary Margaret Que and Benito Teehankee",
       "name_raw": "Mary Margaret Que and Benito Teehankee",
-      "info": [
-        "De La Salle University, Phillipines"
-      ]
+      "info": ["De La Salle University, Phillipines"]
     },
     "abstract": "The Philippines is a predominantly Catholic country but business managers who explicitly integrate their faith within their business practice is relatively rare. This has contributed to Catholics living what has been referred to as a divided life. Using Alford and Naughton’s model of explicit engagement through case study research on the Filipino practicing Catholic and entrepreneur, Bernido Liu and his company Golden ABC, this paper provides an understanding of how Catholic Social Teaching (CST) can be integrated with ethical management practice, especially with respect to traditionally difficult management decisions. This study can increase the awareness of entrepreneurs and managers about an alternative way of doing business, namely doing well in business while also doing good by using CST as a guide when making decisions.",
     "keywords": [
@@ -22,91 +20,153 @@
   {
     "title": "The impact of ethical leadership and stakeholder orientation on employee CSR participation: A conceptual study",
     "type": "Research Paper",
-    "issue2" :true,
+    "issue2": true,
     "link": "journal-files/Joy of Giving.pdf",
     "author": {
       "name": "Annu Mathew and Rohit Punnoose",
       "name_raw": "Annu Mathew and Rohit Punnoose",
-      "info": [
-        "Doctoral scholars, XLRI, India"
-      ]
+      "info": ["Doctoral scholars, XLRI, India"]
     },
     "abstract": "Corporate social responsibility programmes have become the norm today, with most large companies creating separate teams and making significant investments specifically for this purpose. Companies can strategize, allocate funds, and make detailed plans, but it would all be fruitless if employees - one of the critical stakeholders - did not contribute to these activities. After all, the onus of CSR does not lie solely on the leadership, rather employees need to be equally invested in becoming part of the organizational culture. The objective of this study is to devise a framework showing the drivers of employee participation in CSR activities, drawing on the three constructs of ethical leadership, stakeholder orientation, and employee identification.",
     "keywords": [
-      "Employee CSR Participation", 
+      "Employee CSR Participation",
       "Organizational Identification",
-       "Ethical Leadership",
-        "Stakeholder Orientation", 
-        "Social Responsibility"
+      "Ethical Leadership",
+      "Stakeholder Orientation",
+      "Social Responsibility"
     ]
   },
   {
     "title": "Nancy Bocken: Transition businesses to a circular service business model",
     "type": "Practioner Perspective",
-    "issue2" :true,
+    "issue2": true,
     "link": "journal-files/Interview with N.Bocken.pdf",
     "author": {
       "name": "Adiel H. Aguiling",
       "name_raw": "Adiel H. Aguiling,",
-      "info": [
-        "Doctoral candidate, De La Salle University, Philippines"
-      ]
+      "info": ["Doctoral candidate, De La Salle University, Philippines"]
     },
-    "abstract": "Corporations are tasked to take responsibility for the consequences of their actions on the people, society, and environment. Although the exhortation has been on the radar for three decades, pernicious business practices ensue.  To address the problem, sustainability champions seek innovations. One of these innovations is the circular economy. Dr. Nancy Bocken, Professor of Sustainable Business at the Maastricht Sustainability Institute (MSI), is a leading scholar in the field. She has embarked on a project on circular economy innovation and counsels professionals and legislators on the conversion of businesses to a circular service business model.  In this interview, Dr. Bocken explains the four key strategies of a circular economy, how these strategies link to the ethical aspect of doing business, and concomitantly how these strategies lead to profitability. On one hand, she provides examples of unsustainable business models. On the other hand, she explains the creation of sustainable value at the different stages of a business and at different levels in the organization. Dr. Bocken conveys that for circular economy and circular service business models to succeed, collaboration is imperative"  },
+    "abstract": "Corporations are tasked to take responsibility for the consequences of their actions on the people, society, and environment. Although the exhortation has been on the radar for three decades, pernicious business practices ensue.  To address the problem, sustainability champions seek innovations. One of these innovations is the circular economy. Dr. Nancy Bocken, Professor of Sustainable Business at the Maastricht Sustainability Institute (MSI), is a leading scholar in the field. She has embarked on a project on circular economy innovation and counsels professionals and legislators on the conversion of businesses to a circular service business model.  In this interview, Dr. Bocken explains the four key strategies of a circular economy, how these strategies link to the ethical aspect of doing business, and concomitantly how these strategies lead to profitability. On one hand, she provides examples of unsustainable business models. On the other hand, she explains the creation of sustainable value at the different stages of a business and at different levels in the organization. Dr. Bocken conveys that for circular economy and circular service business models to succeed, collaboration is imperative"
+  },
   {
     "title": "Mary Gentile: Giving Voice to Values: Enabling People to Act Ethically",
     "type": "Practioner Perspective",
-    "issue2" :true,
+    "issue2": true,
     "link": "journal-files/Mary-Gentile-interview.pdf",
     "author": {
       "name": "Shieradel V. Jimenez",
       "name_raw": "Shieradel V. Jimenez",
-      "info": [
-        "Assistant professor, De La Salle University, Phillipines"
-      ]
+      "info": ["Assistant professor, De La Salle University, Phillipines"]
     },
     "abstract": "Business schools have been teaching business ethics in one form or another for decades, yet the continuation of corporate scandals seems to point to the futility of these efforts. The question as to whether business schools can truly mould the ethical inclination of students remains paramount. Many educators who believe that schools can affect change in this area have called for a rethinking of how business ethics is taught. A pedagogy and a curriculum that focuses on developing people's capacities to act on their ethical values effectively in any setting, Giving Voice to Values provides a different approach to the ethical analysis methodology traditionally employed in business ethics classrooms."
   },
-   {
+  {
     "title": "A Study in Ethical Journalism. Palgrave Macmillan. Harcup, T (2020)",
     "type": "Book Review",
-    "issue2" :true,
+    "issue2": true,
     "link": "journal-files/Review Harcup What's the point of news D Baines.pdf",
     "author": {
       "name": "Dr David Baines",
       "name_raw": "Dr David Baines",
-      "info": [
-        "Newcastle University, UK"
-      ]
+      "info": ["Newcastle University, UK"]
     },
     "abstract": "Not surprisingly, much of the news media around the world has been passing through tough times. Challenges such as collapsing business models, collapses in their perceived credibility and trustworthiness, and consistent attack from governments intolerant of criticism – or any level of scrutiny continue. Some of those governments are autocratic, but others are supposedly liberal democracies where news is traditionally regarded as an essential element in the democratic process.   Thus, now presents a timely moment to pose the question Tony Harcup presents us with: What’s the point of News? At the heart of this inquiry is an interrogation of what we understand by “news”. On the face of it, the answer is obvious – it is what we see and hear and read on TVs and radios, on our screens and on the pages of newspapers. But Harcup has spent many years teasing apart the processes that put that stuff together, shape it, structure it, define it – what is selected to be news, what is rejected – and why. And today, he says, there are question marks over news when it comes to access, autonomy, trust, and democracy. These questions apply as much to ethics as to economics."
   },
-  
-   {
+
+  {
     "title": "The Power of And. Responsible Business Without Trade-Offs. R. Edward Freeman, Kirsten E. Martin, and Bidhan L. Parmar. Columbia Business School ",
     "type": "Book Review",
     "link": "journal-files/The Power of And_Noblin Tollive.pdf",
-    "issue2" :true,
+    "issue2": true,
     "author": {
       "name": "Ashlee Noblin",
       "name_raw": "Ashlee Noblin",
-      "info": [
-        "Doctoral candidate, The University of Texas at Tyler, USA"
-      ]
+      "info": ["Doctoral candidate, The University of Texas at Tyler, USA"]
     },
     "abstract": "Throughout management history, the topic of ethics, corporate responsibility, their relation to business, and what the true purpose of a business should focus on to be deemed successful, have evolved and been consistently challenged. The challenge escalated in the 1970’s with Milton Friedman’s declaration of a business’s sole responsibility to increase profits. Friedman went so far as to call businessmen who touted social responsibility as “puppets” used to undermine the free market (Friedman, 1970). The argument is exacerbated by the difficulty of implementing social responsibility (Deer & Zarestky, 2017)"
-  }, {
+  },
+  {
     "title": "The conscientious manager. SAGE Publications - P. Medicharla (2021)",
     "type": "Book Review",
-    "issue2" :true,
-    "link": "journal-files/Book Review_A Blauvelt.pdf",
+    "issue2": true,
+    "link": "journal-files/Medicharla.pdf",
     "author": {
       "name": "Alex Blauvelt",
       "name_raw": "Alex Blauvelt",
-      "info": [
-        "MBA student, Purdue University, USA"
-      ]
+      "info": ["MBA student, Purdue University, USA"]
     },
     "abstract": "Conscientiousness, according to the literature, is often tied to employee performance and workplace autonomy (Simmering, Colquitt, Noe, & Porter, 2003). Little research exists on understanding conscientiousness as an inward reflective exercise. The book bridges this gap by helping managers understand its role on the individual manager and the organization.  Empirical research by Lin, Lin, Ma, Wang and Wang (2015) suggests that conscientiousness is the reason why individuals intentionally allocate personal resources such as time, physical, mental, and emotional energies, or financial resources when it pertains to work performance.  Additionally, conscientiousness assists individuals resist the negative effects of stress. More practically, conscientiousness can both promote and exacerbate stressors in work performance.  Thus, knowing how to individually manage an individual’s conscientiousness to promote individual and organizational success is a positive outcome for any reader.  "
+  },
+  {
+    "title": "Principal component analysis of narrative corpus: A mixed-method design to obliterate the pitfalls of vignette-based analysis of personal narratives",
+    "type": "Book Review",
+    "issue2": true,
+    "link": "journal-files/Principal component.pdf",
+    "author": {
+      "name": "Dr. Abhilash Ponnam, Dr. Rik Paul",
+      "name_raw": "Abhilash Ponnam, Rik Paul",
+      "info": [
+        "Associate Professor, NMIMS Hyderabad",
+        "Associate Professor, BML Munjal University"
+      ]
+    },
+    "abstract": "Social scientists engaged in qualitative research rely heavily on the narratives shared by their respondents to attribute meaning to a phenomenon. The authors believe that the prevailing practice of fragmenting long narratives into short vignettes during the analysis of narratives deprives the researchers from capturing the full meaning of the narrative, further leading to inferior analysis. The present study describes various pitfalls arising out of vignette based analyses of narratives and suggests an alternative mixed method. The proposed design combines the qualitative rigor of thematic analysis with the graphical explanatory power of nonlinear principal component analysis. The proposed design preserves the respondent stories in their entirety during classifying the codes to themes and while interpreting each theme in detail.",
+    "keywords": [
+      "Analysis of narratives",
+      "vignette",
+      "principal component analysis",
+      "gestalt",
+      "mixed method"
+    ]
+  },
+  {
+    "title": "A Bibliometric Analysis on Worldwide Research Trend of Work Stress Among Women Employees",
+    "type": "Book Review",
+    "issue2": true,
+    "link": "journal-files/A Bibliometric.pdf",
+    "author": {
+      "name": "Dr. Richa Mishra, Dr. Vaishali Sharma, Anandita Singh and Anisha Bansal",
+      "name_raw": "Richa Mishra, Vaishali Sharma, Anandita Singh and Anisha Bansal",
+      "info": [
+        "Associate Professor, NMIMS Hyderabad",
+        "Associate Professor, BML Munjal University",
+        "MBA, BML Munjal University"
+      ]
+    },
+    "abstract": "Work-life balance is now a major factor in determining an employee's job-related performance in any field. Employees are finding it increasingly difficult to strike a healthy work-life balance as their responsibilities at work grow. Workers are affected physiologically and mentally as a result of such circumstances. The hectic life of retaining and excelling in a bank position has put significant pressure on bank employees&#39; lives, resulting in work-life imbalance, which is a problem that puts workers&#39; well-being, performance, and organizational performance at risk. Following the interests, learning something new, solving issues solving talents and going in a new department are all lead to research. Working on the faculty given topic allow us to directly work with the mentor, she might be research mentor with experience. This research investigate because finishing a research or creative project will provide us practical experience. Working directly with a faculty mentor, as well as the gain knowledge from the other academic and student researchers in our area. Professionalism, time management, multitasking, and internet research tools are all important life and classroom skills to learn. Learning how to effectively communicate our ideas while simultaneously assessing and criticizing the work of others. A chance to hone our leadership and cooperation skills while collaborating with others. A chance to learn new things and expand on what we already know.",
+    "keywords": [
+      "Work stress",
+      "Working Women",
+      "Women Employees",
+      "Gender Differences",
+      "Well-being",
+      "Organizational initiatives",
+      "Discrimination",
+      "Gender",
+      "Pay Equality",
+      "Promotion",
+      "Training",
+      "Mental Health"
+    ]
+  },
+  {
+    "title": "Building Value, Creating Change: Value Co-creation in Tourism Social Enterprises in the Philippines",
+    "type": "Book Review",
+    "issue2": true,
+    "link": "journal-files/Building Value.pdf",
+    "author": {
+      "name": "Patrick Adriel H. Aure, Alexandra A. Burgos, Seigfreid Johnis C. Uy, Jan Nathalia A. Atendido, Lisa R. Bruan",
+      "name_raw": "Patrick Adriel H. Aure, Alexandra A. Burgos, Seigfreid Johnis C. Uy, Jan Nathalia A. Atendido, Lisa R. Bruan",
+      "info": ["De La Salle University, Manila, Philippines"]
+    },
+    "abstract": "The study looks into the service-dominant logic and social capital theory in explaining the value co-creation process of Philippine tourism social enterprises. Through a multiple case study methodology, the research discusses and analyzes the value co-creation process of four stakeholders (i.e., enterprise, community, customer, government) across three tourism social enterprises: MAD Travel, Meaningful Travels PH, and Gawad Kalinga Enchanted Farm and their stakeholders, (e.g., customers, community partners, government institution related to tourism). We find that the tourism social enterprises, in collaboration with customers and community partners, play an active role in ensuring that social value is co-created through empowering communities, developing connections, creating awareness, and inspiring action. Meanwhile, the government ensures an enabling environment for value to be co-created and for businesses to thrive.  This research provides a novel perspective on the value co-creation of tourism social enterprises through the lenses of service-dominant logic and social capital theory.",
+    "keywords": [
+      "Philippines",
+      "Operant Resources",
+      "Service-dominant logic",
+      "Social capital theory",
+      "Tourism social enterprises",
+      "Value co-creation"
+    ]
   }
 ]
