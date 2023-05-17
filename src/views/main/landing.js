@@ -165,7 +165,7 @@ export default function Landing(props) {
                   eventKey="/browse-journal-vol-3-issue-1"
                   href="/browse-journal-vol-3-issue-1"
                 >
-                  Vol. 3 Issue 1 (October 2023){" "}
+                  Vol. 3 Issue 1 (April 2023){" "}
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Item>
