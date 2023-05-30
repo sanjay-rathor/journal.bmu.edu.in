@@ -16,7 +16,6 @@ import './AppTheme.scss';
 import './App.css';
 
 const browserHistory = createBrowserHistory();
-
 export default class App extends React.Component{
   constructor(props) {
     super(props);
