@@ -43,7 +43,7 @@ export default function LandingJournal() {
                       <span className="content-label">
                         ISSN:
                         <span className="content-label-text">
-                          &nbsp;&nbsp;&nbsp;Pending
+                          &nbsp;&nbsp;&nbsp;2583-8520
                         </span>
                       </span>
                       <br></br>
