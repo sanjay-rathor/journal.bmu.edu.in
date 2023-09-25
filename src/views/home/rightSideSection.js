@@ -49,13 +49,13 @@ export default function RightSideSection() {
                     {" "}
                     Papers for Special Issue
                   </a>
-                  <br></br> October, 2023
+                  <br></br> April, 2024
                 </span>
                 <br />
-                <p className="sub-subtitle2">
+                {/* <p className="sub-subtitle2">
                   Theme - Towards a Sustainable Society: Role of Education in
                   the Post-Pandemic Era
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
