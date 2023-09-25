@@ -61,13 +61,14 @@ export default function LandingJournal() {
                       <br></br>
                       <span>
                         Journal of Business, Ethics and Society (JBES) is an
-                        inter-disciplinary bi-annual peer-reviewed journal from BML Munjal
-                        University that publishes theoretical and empirical
-                        research on a broad range of topics concerning business
-                        management, business ethics and societal well-being. The journal started its operation in 2021. The
-                        double-blind peer-reviewed journal broadly focuses on
-                        the intersectionality of ethics and businesses, ethics
-                        and civil societies, and also on topics such as
+                        inter-disciplinary bi-annual peer-reviewed journal from
+                        BML Munjal University that publishes theoretical and
+                        empirical research on a broad range of topics concerning
+                        business management, business ethics and societal
+                        well-being. The journal started its operation in 2021.
+                        The double-blind peer-reviewed journal broadly focuses
+                        on the intersectionality of ethics and businesses,
+                        ethics and civil societies, and also on topics such as
                         corporate social responsibility, social entrepreneurship
                         and power relationships. Addressing the need for an
                         ethical response to the emerging challenges and trends
@@ -111,29 +112,38 @@ export default function LandingJournal() {
                 </Nav>
               </div>
               {latestArticles.map((article) => {
-                  return (
-                    <div className="col-md-12 content-text">
-                      <Card
-                        style={{
-                          width: "100%",
-                        }}
-                      >
-                        <Card.Body>
-                          <Badge variant="primary">{article.type}</Badge>
-                          <Card.Title>
-                            <a
-                              href={
-                                "/browse-journal-vol-3-issue-1#" + article.title
-                              }
-                            >
-                              {article.title}
-                            </a>
-                          </Card.Title>
-                          <Card.Text>{article.author.name}</Card.Text>
-                        </Card.Body>
-                      </Card>
-                    </div>
-                  );
+                return (
+                  <div className="col-md-12 content-text">
+                    <Card
+                      style={{
+                        width: "100%",
+                      }}
+                    >
+                      <Card.Body>
+                        <Badge variant="primary">{article.type}</Badge>
+                        <Card.Title>
+                          <a
+                            href={
+                              "/browse-journal-vol-3-issue-1#" + article.title
+                            }
+                          >
+                            {article.title}
+                          </a>
+                        </Card.Title>
+                        <Card.Text>
+                          {article.author.info.map((info) => {
+                            return (
+                              <div>
+                                {info}
+                                <br></br>
+                              </div>
+                            );
+                          })}
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+                );
               })}
             </div>
             <div className="row">
@@ -159,9 +169,7 @@ export default function LandingJournal() {
               <div className="col-md-8 twitter-timeline">
                 <div className="row">
                   <div className="col-md-12 ">
-                    <span className="content-tab-title">
-                      Advisory Board
-                    </span>
+                    <span className="content-tab-title">Advisory Board</span>
                   </div>
                   <div className="col-md-12 ">
                     <div className="list-group editor-acordian">
