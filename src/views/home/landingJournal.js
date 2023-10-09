@@ -124,7 +124,7 @@ export default function LandingJournal() {
                         <Card.Title>
                           <a
                             href={
-                              "/browse-journal-vol-3-issue-1#" + article.title
+                              "/browse-journal-vol-3-issue-2#" + article.title
                             }
                           >
                             {article.title}
