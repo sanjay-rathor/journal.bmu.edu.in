@@ -31,25 +31,27 @@ export default function RightSideSection() {
             <div className="row content-space-around">
               <div className="col-md-12 custom-padding">
                 <Badge className="side-heading">
-                  <a
+                  {/* <a
                     href="journal-files/Special issue-October.pdf"
                     target="_blank"
-                  >
+                  > */}
+                  <p>
                     Call for Papers
-                  </a>
+                  </p>
+                  for April, 2024
+
                 </Badge>
               </div>
               <div className="col-md-12 custom-padding">
                 <span className="sub-subtitle">
                   {" "}
-                  <a
+                  {/* <a
                     href="journal-files/Special issue-October.pdf"
                     target="_blank"
                   >
                     {" "}
                     Papers for Special Issue
-                  </a>
-                  <br></br> April, 2024
+                  </a> */}
                 </span>
                 <br />
                 {/* <p className="sub-subtitle2">
