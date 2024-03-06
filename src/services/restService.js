@@ -3,7 +3,7 @@ import {authenticationService} from './';
 import article1 from '../journals/naturalJournal.json';
 import practitionerPrespective from '../journals/practitionerPrespective.json';
 import bookReviews from '../journals/issue-3/bookReviewIssue3.json';
-import lastestContent from '../journals/issue-6/issueList6.json';
+import lastestContent from '../journals/issue-7/issueList7.json';
 
 export const restService = {
     getLatestArticles: () => {
