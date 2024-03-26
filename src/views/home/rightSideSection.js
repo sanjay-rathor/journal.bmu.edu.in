@@ -38,7 +38,7 @@ export default function RightSideSection() {
                   <p>
                     Call for Papers
                   </p>
-                  for April, 2024
+                  for October, 2024
 
                 </Badge>
               </div>
