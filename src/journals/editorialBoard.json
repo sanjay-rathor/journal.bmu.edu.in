@@ -1,13 +1,27 @@
 [
     {
-        "name" : "Payal Kumar",
+        "name" : "Editor-in-chief - Payal Kumar",
         "title" : "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India ",
         "email" : "payalk1@gmail.com"
     },
     {
-        "name" : "Sangita Dutta Gupta",
-        "title" : "Assistant Dean, Research, BML Munjal University, India",
+        "name" : "Associate Editors - Dr Sangita Dutta Gupta",
+        "title" : "Associate professor, Economics | Assistant Dean, Research | BML Munjal University, India",
         "email" : "sangita.dgupta@bmu.edu.in"
+    },
+    {
+        "name" : "Associate Editors - Prof Patrick Adriel H. Aure",
+        "title" : "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Professor (DMO/MOD) | De La Salle University, Philippines",
+        "email" : "kit.patrick@gmail.com"
+    },
+    {
+        "name" : "Book Review Editor - Prof Sreejit Datta",
+        "title" : "Assistant Professor UID, Karnavati University, India"
+    },
+    {
+        "name" : "Book Review Editor - Elva Anne Resendez",
+        "title" : "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
+        "email" : "elva.resendez@pfw.edu"
     },
     {
         "name" : "Ritu Chhikara",
@@ -34,11 +48,7 @@
         "title" : "Special Issues Editor-JBES, Vice-Chair and Associate Professor (DMO/MOD), De La Salle University, Philippines",
         "email" : "patrick.aure@dlsu.edu.ph"
     },
-    {
-        "name" : "Elva Anne Resendez",
-        "title" : "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
-        "email" : "elva.resendez@pfw.edu"
-    },
+
     {
         "name" : "Aditya Agrawal",
         "title" : "Assistant Professor (HRM), Flame University, India",
