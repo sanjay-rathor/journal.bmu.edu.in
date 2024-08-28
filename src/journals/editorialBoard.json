@@ -2,7 +2,7 @@
     {
         "name" : "Editor-in-chief - Payal Kumar",
         "title" : "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India ",
-        "email" : "payalk1@gmail.com"
+        "email" : "payal.kumar@ish.edu.in"
     },
     {
         "name" : "Associate Editors - Dr Sangita Dutta Gupta",
@@ -52,7 +52,7 @@
     {
         "name" : "Aditya Agrawal",
         "title" : "Assistant Professor (HRM), Flame University, India",
-        "email" : "adiagr@gmail.com"
+        "email" : "agarwal-aditya.g.agrawal@flame.edu.in"
     },
     {
         "name" : "Prof Nigam Nuggehalli",
@@ -67,6 +67,16 @@
     {
         "name" : "Prof Saloni Sinha",
         "title" : "Assistant Professor, Business Communication and Theatre, BIMTECH, India",
-        "email" : "saloni.sinha@bimtech.ac.in "
+        "email" : "saloni.sinha@bimtech.ac.in"
+    },
+    {
+        "name" : "Dr. Indrani Roy Chowdhury",
+        "title" : "Professor, Centre for the Study of Regional Development, SSS, JNU",
+        "email" : "iroychowdhury@mail.jnu.ac.in"
+    },
+    {
+        "name" : "Dr. Madhumita Guha Majumder",
+        "title" : "Professor & Program Head - Research &amp; Business Analytics Prin. L.N. Welingkar Institute of Management Development and Research in Bangalore,",
+        "email" : "madhumita.majumder@welingkar.org"
     }
 ]
