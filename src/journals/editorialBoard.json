@@ -53,5 +53,20 @@
         "name" : "Aditya Agrawal",
         "title" : "Assistant Professor (HRM), Flame University, India",
         "email" : "adiagr@gmail.com"
+    },
+    {
+        "name" : "Prof Nigam Nuggehalli",
+        "title" : "Registrar, National Law School of India University, India",
+        "email" : "nigam@nls.ac.in"
+    },
+    {
+        "name" : "Prof Uma Gulati",
+        "title" : "Professor( Marketing), Institute of Technology & Science, Ghaziabad, India",
+        "email" : "umagulati@its.edu.in"
+    },
+    {
+        "name" : "Prof Saloni Sinha",
+        "title" : "Assistant Professor, Business Communication and Theatre, BIMTECH, India",
+        "email" : "saloni.sinha@bimtech.ac.in "
     }
 ]
