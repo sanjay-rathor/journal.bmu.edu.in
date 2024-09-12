@@ -14,6 +14,7 @@ import BrowseJournalVol2Issue2 from "../home/browse_issue_journal4";
 import BrowseJournalVol3Issue1 from "../home/browse_issue_journal5";
 import BrowseJournalVol3Issue2 from "../home/browse_issue_journal6";
 import BrowseJournalVol4Issue1 from "../home/browse_issue_journal7";
+import BrowseJournalVol4Issue2 from "../home/browse_issue_journal8";
 import SubmissionGuidelines from "../home/submissionGuidelines";
 import AuthorResponsibility from "../home/authorResponsibility";
 import RightsAndPermission from "../home/rightsAndPermission";
@@ -183,6 +184,14 @@ export default function Landing(props) {
                 >
                   Vol. 4 Issue 1 (April 2024){" "}
                 </NavDropdown.Item>
+                <NavDropdown.Item
+                  className="nav-link-tab"
+                  eventKey="/browse-journal-vol-4-issue-2"
+                  href="/browse-journal-vol-4-issue-2"
+                >
+                  Vol. 4 Issue 2 (October 2024){" "}
+                </NavDropdown.Item>
+                
               </NavDropdown>
               <Nav.Item>
                 <Nav.Link
@@ -283,6 +292,11 @@ export default function Landing(props) {
             {currentRoute == "/browse-journal-vol-4-issue-1" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <BrowseJournalVol4Issue1 />
+              </div>
+            )}
+            {currentRoute == "/browse-journal-vol-4-issue-2" && (
+              <div className="custom-top-margin custom-bottom-margin">
+                <BrowseJournalVol4Issue2 />
               </div>
             )}
             {currentRoute == "/submission-guidelines" && (

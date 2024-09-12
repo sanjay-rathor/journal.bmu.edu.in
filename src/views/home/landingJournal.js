@@ -111,7 +111,7 @@ export default function LandingJournal() {
                   </Nav.Item>
                 </Nav>
               </div>
-              {latestArticles.map((article) => {
+              {latestArticles.map((article, index) => {
                 return (
                   <div className="col-md-12 content-text">
                     <Card
@@ -124,21 +124,22 @@ export default function LandingJournal() {
                         <Card.Title>
                           <a
                             href={
-                              "/browse-journal-vol-4-issue-1#" + article.title
+                              "/browse-journal-vol-4-issue-2#" + article.title
                             }
                           >
                             {article.title}
                           </a>
                         </Card.Title>
                         <Card.Text>
-                          {article.author.info.map((info) => {
+                        {article.author.name}
+                          {/* article.author.info.map((info) => {
                             return (
                               <div>
                                 {info}
                                 <br></br>
                               </div>
                             );
-                          })}
+                          }) */}
                         </Card.Text>
                       </Card.Body>
                     </Card>
