@@ -63,7 +63,7 @@ export default function RightSideSection() {
           </div>
         </div>
       </div>
-      <div className="col-md-12 custom-padding">
+      {/* <div className="col-md-12 custom-padding">
         <div className="side-callforpapar-img">
           <div className="side-layer">
             <div className="row content-space-around">
@@ -82,7 +82,7 @@ export default function RightSideSection() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {currentRoute != "/aim-and-scope" && (
         <div>
           <div className="col-md-12 custom-padding">

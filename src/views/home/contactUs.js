@@ -29,9 +29,9 @@ export default function ContactUs() {
                   <div className="subbody-content aims container">
                     <div>
                       <p className="header">
-                        <strong>Dr. Jayadev B Kumbar</strong>
-                        <br />
-                        <span>Deputy Librarian</span>
+                        <strong>Librarian</strong>
+                        {/* <br />
+                        <span>Deputy Librarian</span> */}
                       </p>
                       <h4>BML Munjal University</h4>
                       <h4>
