@@ -50,18 +50,18 @@ export default function SubmissionGuidelines() {
                     reviewed.
                   </p>
                   <p>
-                  Manuscripts and all editorial correspondence should be addressed to:
+                  Manuscripts and all editorial correspondence should be addressed to
                     <span
                       style={{
                         paddingLeft: 6,
                       }}
                     >
-                       (e-mail:{" "}
+                      (e-mail:{" "}
                       <a
                         style={{
                           fontWeight: 600,
                         }}
-                        href=" jbes.submission@bmu.edu.in"
+                        href="mailto: jbes.submission@bmu.edu.in"
                       >
                          jbes.submission@bmu.edu.in
                       </a>
