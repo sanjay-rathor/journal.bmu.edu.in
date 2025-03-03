@@ -50,22 +50,20 @@ export default function SubmissionGuidelines() {
                     reviewed.
                   </p>
                   <p>
-                    Manuscripts and all editorial correspondence should be
-                    addressed to:
+                  Manuscripts and all editorial correspondence should be addressed to:
                     <span
                       style={{
                         paddingLeft: 6,
                       }}
                     >
-                      Founding Editor-in-Chief, Journal of Business, Society and
-                      Ethics, Prof. Payal Kumar (e-mail:{" "}
+                       (e-mail:{" "}
                       <a
                         style={{
                           fontWeight: 600,
                         }}
-                        href="mailto:payalk1@gmail.com"
+                        href=" jbes.submission@bmu.edu.in"
                       >
-                        payalk1@gmail.com
+                         jbes.submission@bmu.edu.in
                       </a>
                       ).
                     </span>
