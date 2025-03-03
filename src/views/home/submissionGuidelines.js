@@ -56,16 +56,16 @@ export default function SubmissionGuidelines() {
                         paddingLeft: 6,
                       }}
                     >
-                      (e-mail:{" "}
+                      
                       <a
                         style={{
                           fontWeight: 600,
                         }}
-                        href="mailto: jbes.submission@bmu.edu.in"
+                        href="mailto:jbes.submission@bmu.edu.in"
                       >
                          jbes.submission@bmu.edu.in
                       </a>
-                      ).
+                      .
                     </span>
                   </p>
                   <p>
