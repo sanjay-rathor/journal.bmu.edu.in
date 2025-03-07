@@ -100,7 +100,7 @@ export default function RightSideSection() {
 
           {bookReviews.map((article) => {
             return (
-              <div className="col-md-12 content-text">
+              <div className="col-md-12 content-text book-re">
                 <Card>
                   <Card.Body>
                     <Badge variant="primary">{article.type}</Badge>

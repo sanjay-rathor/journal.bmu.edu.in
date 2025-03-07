@@ -120,11 +120,13 @@ export default function LandingJournal() {
                       }}
                     >
                       <Card.Body>
+                      
+                      {console.log("Author Name:", article.author.name)} 
                         <Badge variant="primary">{article.type}</Badge>
                         <Card.Title>
                           <a
                             href={
-                              "/browse-journal-vol-4-issue-2#" + article.title
+                              "/browse-journal-vol-5-issue-1#" + article.title
                             }
                           >
                             {article.title}
@@ -132,6 +134,7 @@ export default function LandingJournal() {
                         </Card.Title>
                         <Card.Text>
                         {article.author.name}
+                        
                           {/* article.author.info.map((info) => {
                             return (
                               <div>
