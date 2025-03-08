@@ -36,10 +36,10 @@ export default function RightSideSection() {
                     target="_blank"
                   > */}
                   <p>
-                    Call for Papers
-                  </p>
+                    <strong>Call for Papers</strong> <br/>
+                  
                   Volume 5, Issue 2 ( October 2025) <br/>
-                  <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices
+                  <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices</p>
 
                 </div>
               </div>
