@@ -30,7 +30,7 @@ export default function RightSideSection() {
           <div className="side-layer">
             <div className="row content-space-around">
               <div className="col-md-12 custom-padding">
-                <Badge className="side-heading">
+                <div className="side-heading">
                   {/* <a
                     href="journal-files/Special issue-October.pdf"
                     target="_blank"
@@ -38,10 +38,10 @@ export default function RightSideSection() {
                   <p>
                     Call for Papers
                   </p>
-                  Volume 5, Issue 2 ( October 2025) <br></br>
-                  <strong>Theme -</strong> Decent Work and <br></br> Economic Growth: Advancing <br></br> SDG8 through Ethical <br></br>Business Practices
+                  Volume 5, Issue 2 ( October 2025) <br/>
+                  <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices
 
-                </Badge>
+                </div>
               </div>
               <div className="col-md-12 custom-padding">
                 <span className="sub-subtitle">
