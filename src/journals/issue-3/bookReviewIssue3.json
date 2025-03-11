@@ -1,29 +1,38 @@
+
+
 [
-     {
-      "title": "Nonaka, Ikujiro and Takeuchi, Hirotaka. 2019. The Wise Company: How Companies Create Continuous Innovation. Oxford: Oxford University Press",
-      "type": "Book Review",
-      "link": "journal-files/Book-review-Wise-Company.pdf",
-      "issue2" :true,
-      "author": {
-        "name": "Rocha, Raysa Geaquinto",
-        "name_raw": "Rocha, Raysa Geaquinto",
+  {
+    "title": "Waiting for Shiva: Unearthing the Truth of Kashi’s Gyan Vapi. By Vikram Sampath (Ink Occam, 2024)",
+    "type": "Book Review",
+    "issue2": true,
+    "link": "journal-files/9_BKR-1-Waiting-for-Shiva.pdf",
+    "author": {
+        "name": "Sukrit Banerjee",
+        "name_raw": "",
         "info": [
-          "PhD student, NECE Research Center in Business Sciences, University of Beira Interior"
+            ""
         ]
-      },
-      "abstract": "Practical wisdom (phronesis), as presented by Aristotle (ca. 350 B.C.E./2009), has been brought into management in recent decades and more recently into the knowledge management field. This construct consists of properly applying the moral and intellectual virtues to achieve appropriate and good results. However, the understanding of practical wisdom in management varies according to the authors and the purpose of its application."
-    }, {
-      "title": "Andrew J. Hoffman. The Engaged Scholar, 2021, Stanford University Press, Stanford",
-      "type": "Book Review",
-      "issue2" :true,
-      "link": "journal-files/Book Review_The Engaged Scholar.pdf",
-      "author": {
-        "name": "Mary Lynn Lunn",
-        "name_raw": "Mary Lynn Lunn",
+    },
+    "abstract": null,
+    "keywords": null
+},
+{
+    "title": "Deconstructing Moral Responsibility: Book Review Essay",
+    "type": "Book Review",
+    "issue2": true,
+    "link": "journal-files/9_BKR-2-Deconstructing-moral.pdf",
+    "author": {
+        "name": "Bruce Hiebert",
+        "name_raw": "",
         "info": [
-          "Ph.D, Visiting Instructor, The University of Richmond, Robins School of Business."
+            ""
         ]
-      },
-      "abstract": "In his book The Engaged Scholar, Andrew Hoffman, the Holcim (US) Professor in the Ross School of Business and the School for Environment and Sustainability at the University of Michigan, proposes that we scholars selected our profession as university professors because we want to have a positive impact on the world.  Most universities have guiding principles outlining objectives for tenure track faculty to make contributions in research, teaching, and service throughout their careers.  Faculty service commonly consists of service to the university such as serving on university committees, community outreach through volunteering with local not-for-profit organizations, or publishing research in scholarly journals regarding community issues.  Professor Hoffman contends that, to truly make a positive impact on the world, scholars must stretch beyond these three objectives and engage in a wider range of public outreach activities."    
-    }
+    },
+    "abstract": null,
+    "keywords": null
+}
 ]
+
+
+
+
