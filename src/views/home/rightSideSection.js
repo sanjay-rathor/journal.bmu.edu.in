@@ -35,11 +35,11 @@ export default function RightSideSection() {
                   <p><a
                     href="journal-files/jbes_cfp_v5.pdf"
                     target="_blank"
-                  > <strong>Call for Papers</strong></a>
+                  > <strong>Call for Papers</strong>
                      <br/>
                   
                   Volume 5, Issue 2 ( October 2025) <br/>
-                  <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices</p>
+                  <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices</a></p>
 
                 </div>
               </div>
