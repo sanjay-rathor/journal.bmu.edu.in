@@ -31,12 +31,12 @@ export default function RightSideSection() {
             <div className="row content-space-around">
               <div className="col-md-12 custom-padding">
                 <div className="side-heading">
-                  {/* <a
-                    href="journal-files/Special issue-October.pdf"
+                  
+                  <p><a
+                    href="journal-files/jbes_cfp_v5.pdf"
                     target="_blank"
-                  > */}
-                  <p>
-                    <strong>Call for Papers</strong> <br/>
+                  > <strong>Call for Papers</strong></a>
+                     <br/>
                   
                   Volume 5, Issue 2 ( October 2025) <br/>
                   <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices</p>
