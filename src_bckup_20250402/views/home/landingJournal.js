@@ -111,26 +111,31 @@ export default function LandingJournal() {
                   </Nav.Item>
                 </Nav>
               </div>
-              {(() => {
-  const hiddenTypes = ["Book Review"]; // Define inside the scope
-
-  return latestArticles
-    .filter(article => !hiddenTypes.includes(article.type)) // Hide specified types
-    .map((article, index) => {
-      return (
-        <div className="col-md-12 content-text" key={index}>
-          <Card style={{ width: "100%" }}>
-            <Card.Body>
-              {console.log("Author Name:", article.author.name)}
-              <Badge variant="primary">{article.type}</Badge>
-              <Card.Title>
-                <a href={"/browse-journal-vol-5-issue-1#" + article.title}>
-                  {article.title}
-                </a>
-              </Card.Title>
-              <Card.Text>
-                {article.author.name}
-                  {/* article.author.info.map((info) => {
+              {latestArticles.map((article, index) => {
+                return (
+                  <div className="col-md-12 content-text">
+                    <Card
+                      style={{
+                        width: "100%",
+                      }}
+                    >
+                      <Card.Body>
+                      
+                      {console.log("Author Name:", article.author.name)} 
+                        <Badge variant="primary">{article.type}</Badge>
+                        <Card.Title>
+                          <a
+                            href={
+                              "/browse-journal-vol-5-issue-1#" + article.title
+                            }
+                          >
+                            {article.title}
+                          </a>
+                        </Card.Title>
+                        <Card.Text>
+                        {article.author.name}
+                        
+                          {/* article.author.info.map((info) => {
                             return (
                               <div>
                                 {info}
@@ -138,15 +143,12 @@ export default function LandingJournal() {
                               </div>
                             );
                           }) */}
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </div>
-      );
-    });
-})()}
-
-
+                        </Card.Text>
+                      </Card.Body>
+                    </Card>
+                  </div>
+                );
+              })}
             </div>
             <div className="row">
               <div className="col-md-12 ">

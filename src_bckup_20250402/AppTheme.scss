@@ -1,0 +1,471 @@
+$primary : #485D95;
+$medium: #485D95;
+$bgColor : #FFFFFF;
+$theme-colors: ("primary": $primary,
+  "medium" : $medium,
+  "dark": #ff4136,
+  "header" :$bgColor,
+  "bgColor" : $bgColor);
+
+$font-family-lato: 'Lato',
+sans-serif;
+$font-family-base: $font-family-lato;
+
+body {
+  background-color: $bgColor !important;
+  color: $primary !important;
+}
+
+.container {
+  background-color: $bgColor !important;
+  color: $primary !important;
+}
+
+.navbar-light {
+  -webkit-box-shadow: 0px 7px 5px -4px #d6d5d5;
+  -moz-box-shadow: 0px 7px 5px -4px #d6d5d5;
+  box-shadow: 0px 7px 5px -4px #d6d5d5;
+}
+
+.navbar {
+  color: $primary !important;
+  background-color: $bgColor !important;
+}
+
+.form-control {
+  color: $primary !important;
+  border-color: #92a1ca !important;
+  box-shadow: 0 0 0 0.2rem rgba(72, 93, 149, 0.25) !important;
+}
+
+.navbar-light .navbar-brand {
+  color: $primary !important;
+  background-color: $bgColor !important;
+  font-size: 1.2em;
+}
+
+.navbar-light .nav-link {
+  background: $primary !important;
+  color: #FFFFFF !important;
+
+}
+
+.dropdown-nav-link {
+  a { 
+  color: $primary !important;
+  background: transparent !important;
+   }
+  a:hover {
+    background: $primary !important;
+    color: #FFFFFF !important;
+  
+  }
+}
+.subbody-content {
+  padding: 2rem;
+  text-align: left;
+}
+.aims {
+  background: #FFFFFF !important;
+}
+.subbody-coming-soon {
+  padding: 2rem;
+}
+.navbar-light .footer-link {
+  font-weight: 400;
+  font-size: 14px;
+  color: $primary !important;
+  ;
+  background: #FFFFFF !important;
+  ;
+}
+
+.navbar-medium .navbar-nav .nav-link {
+  color: #FFFFFF !important;
+}
+
+.navbar-medium .dropdown-toggle::after {
+  margin-left: 0.4rem;
+  border-right: 0;
+}
+
+.dropdown-item {
+  color: $primary !important;
+}
+.editorial-heading {
+  font-size: 16px;
+  font-weight: bold;
+}
+.dropdown-item:hover {
+  text-decoration: none;
+  background-color: $bgColor !important;
+  -webkit-box-shadow: 0px 7px 5px -4px $primary;
+  -moz-box-shadow: 0px 7px 5px -4px $primary;
+  box-shadow: 0px 7px 5px -4px $primary;
+}
+.dropdown-item.active, .dropdown-item:active {
+  -webkit-box-shadow: 0px 7px 5px -4px $primary;
+  -moz-box-shadow: 0px 7px 5px -4px $primary;
+  box-shadow: 0px 7px 5px -4px $primary;
+  background-color: #FFFFFF !important;
+}
+.editorial-letter {
+  padding: 16px;
+}
+.dropdown-item:active {
+  text-decoration: none;
+  background-color: $bgColor !important;
+  -webkit-box-shadow: 0px 7px 5px -4px $primary;
+  -moz-box-shadow: 0px 7px 5px -4px $primary;
+  box-shadow: 0px 7px 5px -4px $primary;
+}
+.dropdown-menu-right {
+  float: right;
+}
+
+.navbar-nav li:hover>ul.dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+}
+
+/* rotate caret on hover */
+.dropdown-menu>li>a:hover:after {
+  text-decoration: underline;
+  transform: rotate(-90deg);
+}
+
+.navbar-light .dropdown-toggle::after {
+  display: none !important;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.react-bootstrap-table-pagination-list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+.cover {
+  // background: #f7f6f6;
+  margin-bottom: 8px;
+}
+
+.cover-image {
+  // background: url(./images/bml-logo1.svg);
+
+}
+
+.margin-zero {
+  margin: 0 !important;
+}
+
+.padding-zero {
+  padding: 0 !important;
+}
+
+.content-padding {
+  padding: 2em !important;
+}
+
+.custom-padding {
+  padding: 1em !important;
+}
+
+.custom-top-margin {
+  margin-top: 2em !important;
+}
+
+.card-title {
+  font-size: 1.15rem !important;
+}
+
+.custom-bottom-margin {
+  margin-bottom: 1.5em;
+}
+
+.body-container {
+  background: #cad8ef;
+}
+.side-bottom-margin {
+  margin-bottom: 1rem;
+}
+.content-tab-title {
+  font-size: 1.5rem;
+  color: $primary;
+  padding: 0.5rem;
+}
+.content-tab-title-issue {
+  font-size: 1.2rem;
+  background: $primary;
+  color :  #FFFFFF;
+  padding: 0.5rem;
+}
+.list-tab-content {
+   color: $primary;
+  background-color : #cad8ef !important;
+}
+.content-subtab-title {
+  font-size: 1.2rem;
+  color: $primary;
+  font-weight: 600; 
+}
+.content-subtab-subtitle {
+  font-size: 1rem;
+  font-weight: 600; 
+  padding: 0.3rem;
+}
+.content-subtab-content-label {
+  font-size: 1rem;
+  font-weight: 600; 
+}
+.guide-text-rules {
+  font-size: 1rem;
+}
+.highlight-label {
+  font-weight: 600; 
+  color: #FFFFFF;
+  padding: 0.1rem;
+  font-size:0.8rem;
+  background-color : $primary;
+}
+.content-subtab-subtitle-1 {
+  font-size: 1rem;
+  font-weight: 600; 
+  color: $primary;
+  padding: 0.2rem;
+}
+.twitter-timeline {
+  padding: 2rem;
+  height: auto;
+}
+.side-tall-img {
+ background-image: url(./images/A4.png);
+ height: 120px;
+}
+.strip-image {
+  width: 100%;
+}
+
+  @media (max-width: 768px) {
+    .mobile-padding {
+        padding: 0 !important;
+     }
+  }
+.name-box {
+  border-bottom: $primary 1px solid;
+  margin-bottom: .5rem;
+}
+.editor-acordian {
+  height: 560px;
+  margin: 8px;
+  overflow: auto;
+}
+.side-question-tab {
+  font-size: 1rem !important;
+  line-height: 2rem !important;
+  padding: 1rem !important;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+.content-text {
+  display: flex;
+  justify-content: left;
+  text-align: justify;
+  font-size: 14px;
+  line-height: 1.5rem;
+  padding-top: 1em;
+}
+
+.content-title {
+  //  font-weight: bold;
+}
+
+.content-label {
+  font-weight: bold;
+}
+
+.content-space-around {
+  justify-content: space-around;
+}
+
+.content-label-text {
+  font-weight: 300;
+}
+
+.content-link {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.divider {
+  border-bottom: 2px solid;
+  padding: 1em;
+}
+.side-callforpapar-img {
+  background-image: url(./images/A4.png);
+  // height: 250px;
+  position: relative;
+  cursor: pointer;
+ 
+}
+.side-info-img {
+  height: 350px;
+  background-image: url(./images/A4.png);
+  position: relative;
+  cursor: pointer;
+}
+.side-layer {
+    background-color: rgba(255, 255, 255, 0.95);
+    // position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.side-heading {
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+  line-height: 2rem !important;
+}
+.subscribe-detail {
+  color: #FFFFFF !important;
+}
+.sub-subtitle {
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+}
+.sub-subtitle2 {
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  padding:10px;
+}
+.subscribe-subtitle {
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  padding: 1rem !important;
+}
+.book-cover {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.cover-imag {
+  padding-top: 1.5em;
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-position-y: center;
+}
+.subcribe-btn {
+  background: $primary;
+  color: #FFFFFF;
+  margin: 1rem !important;
+  padding: 8px !important;
+  font-size: 1.2rem !important;
+  font-weight: 100 !important;
+}
+.title {
+  font-size: 40px;
+  font-family: 'Bitter', serif;
+}
+.editor-about {
+  text-align: left;
+  font-size: 14px;
+}
+.subtile {
+  font-size: 14px;
+  font-family: 'Bitter', serif;
+}
+
+.search {
+  margin-top: 5%;
+}
+
+.search-tabs {
+  margin-top: 3%;
+}
+
+.nav-link {
+  color: #FFFFFF !important;
+  background: $primary !important;
+}
+
+.nav-link-tab {
+  color: $primary !important;
+  background: #cad8ef !important;
+  border-radius: 0 !important;
+}
+
+.nav-link-tab.active {
+  border-bottom: solid 5px $primary !important;
+  position: relative;
+}
+
+.nav-link-tab.active:after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  right: 46%;
+  margin-left: -50px;
+  width: 0;
+  height: 0;
+  border-top: solid 9px $primary;
+  border-left: solid 12px transparent;
+  border-right: solid 12px transparent;
+}
+
+.nav-link-section {
+  background: #FFFFFF !important;
+  color: $primary !important;
+  border-radius: 0 !important;
+  font-size: 24px;
+}
+
+.nav-link-section.active {
+  border-bottom: solid 5px $primary !important;
+  position: relative;
+}
+
+.nav-link-section.active:after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 26%;
+  margin-left: -50px;
+  width: 0;
+  height: 0;
+  border-top: solid 9px $primary;
+}
+
+.landing-action-nav {
+  padding: 0.2rem 0.4rem !important;
+}
+
+
+.cover-paddding {
+  padding: 1rem;
+}
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap';
