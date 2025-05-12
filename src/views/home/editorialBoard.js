@@ -43,6 +43,7 @@ export default function EditorialBoard() {
                         </div>
                         <p className="mb-1 editor-about">{item.title}</p>
                         <p className="mb-1 editor-about">{item.email}</p>
+                        <p className="mb-1 editor-about"><a href="journal-files/Editorial.pdf" target="_blank" >{item.link}</a></p>
                       </div>
                     );
                   })}

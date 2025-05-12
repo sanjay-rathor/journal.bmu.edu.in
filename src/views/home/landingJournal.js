@@ -87,7 +87,8 @@ export default function LandingJournal() {
                         public institutions, not-for-profit institutions and
                         government organizations. The journal has an
                         international focus and welcomes research from all
-                        regions of the world.
+                        regions of the world. <br></br>
+                        The journal provides immediate open access to its material on the principle that a larger global sharing of knowledge is supported when research is made accessible to everyone. There are no article submission and processing fees. The contents of this journal fall under the Creative Commons license: Attribution-NonCommercial-NoDervis (CC BY-NC-ND). 
                       </span>
                     </span>
                   </div>

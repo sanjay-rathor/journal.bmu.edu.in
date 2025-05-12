@@ -228,7 +228,7 @@ export default function Landing(props) {
                   href="/right-and-permissions"
                   className="nav-link-tab"
                 >
-                  Rights & Permissions
+                  FAQs for Authors
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item>

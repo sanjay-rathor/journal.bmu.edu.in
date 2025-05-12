@@ -42,6 +42,7 @@ export default function AdvisoryBoard() {
                         </div>
                         <p className="mb-1 editor-about">{item.description}</p>
                         <p className="mb-1 editor-about">{item.email}</p>
+                        
                       </div>
                     );
                   })}

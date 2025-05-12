@@ -43,7 +43,7 @@ export default function AimScope() {
                                 </ul>
                                 <p>Our editorial board advisors are leading scholars from universities around the world including Fordham University, USA and Tel Aviv University, Israel. Most of our submissions are also from scholars around the world who are interested in business, ethics and societal issues. </p>
                                 <p>We do not accept any payment for publication, and we respect guidelines from the Committee on Publication Ethics (COPE). Editorial rigour and the dissemination of new knowledge is a priority for us. </p>
-                                <div class="col-md-12 custom-padding"><a href="journal-files/Editorial.pdf" target="_blank"><span class="side-heading badge badge-primary">Download  Peer Reviwer Form</span></a></div>
+                                {/* <div class="col-md-12 custom-padding"><a href="journal-files/Editorial.pdf" target="_blank"><span class="side-heading badge badge-primary">Download  Peer Reviwer Form</span></a></div> */}
                             </div>
                         </div>
                         {/* <div className="row " >

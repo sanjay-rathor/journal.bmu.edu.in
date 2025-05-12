@@ -1,8 +1,10 @@
 [
+    
     {
         "name" : "Editor-in-chief - Payal Kumar",
         "title" : "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India ",
-        "email" : "payal.kumar@ish.edu.in"
+        "email" : "payal.kumar@ish.edu.in",
+        "link": "Message from Editoral-in-chief"
     },
     {
         "name" : "Associate Editors - Sangita Dutta Gupta",
