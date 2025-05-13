@@ -61,7 +61,7 @@ export default function LandingJournal() {
                       <br></br>
                       <span>
                         Journal of Business, Ethics and Society (JBES) is an
-                        inter-disciplinary bi-annual peer-reviewed journal from
+                        inter-disciplinary bi-annual peer-reviewed open access journal from
                         BML Munjal University that publishes theoretical and
                         empirical research on a broad range of topics concerning
                         business management, business ethics and societal
