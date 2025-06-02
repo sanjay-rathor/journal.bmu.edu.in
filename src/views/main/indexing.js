@@ -84,13 +84,13 @@ const Indexing = () => {
           <div className="col-md-12 col-sm-12 body-container ">
             <div className="row justify-content-md-center ">
               <div className=" container my-5">
-                {/* <h2 className="text-center mb-5 pt-4">
-                  <strong>JBES listing in the Indexing Databases</strong>
-                </h2> */}
+                <h2 className="text-center mb-5">
+                  {/* <strong>JBES listing in the Indexing Databases</strong> */}
+                </h2>
                 <div className="row">
                   {indexingItems.map((item, index) => (
                     <div className="col-md-3 text-center mb-5" key={index}>
-                      <div className="imggBox">
+                      <div className="imggBox"> 
                         <img
                           src={item.img}
                           alt={item.title}
