@@ -169,7 +169,7 @@ export default function LandingJournal() {
                   charSet="utf-8"
                 ></script>
               </div>
-              <div className="col-md-8 twitter-timeline">
+              {/* <div className="col-md-8 twitter-timeline">
                 <div className="row">
                   <div className="col-md-12 ">
                     <span className="content-tab-title">Advisory Board</span>
@@ -198,7 +198,7 @@ export default function LandingJournal() {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
             {/* <div className="row" >
                             <div className="col-md-12 " >
