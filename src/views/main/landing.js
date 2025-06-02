@@ -25,8 +25,10 @@ import Subscription from "../home/subcription";
 import ContactUs from "../home/contactUs";
 import BookCover from "../../images/book-cover-study-education-book store .png";
 import Publisher from "../home/publisher";
+
 // import classes from "./landing.module.css";
 import Logo from "../../images/bml-color-logo.png";
+import Indexing from "./indexing";
 
 export default function Landing(props) {
   const currentRoute = window.location.pathname;
@@ -240,6 +242,15 @@ export default function Landing(props) {
                   Contact
                 </Nav.Link>
               </Nav.Item>
+              <Nav.Item>
+                <Nav.Link
+                  eventKey="/indexing"
+                  href="/indexing"
+                  className="nav-link-tab"
+                >
+                  Indexing
+                </Nav.Link>
+              </Nav.Item>
             </Nav>
           </div>
         </div>
@@ -338,6 +349,11 @@ export default function Landing(props) {
             {currentRoute == "/contact-us" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <ContactUs />
+              </div>
+            )}
+            {currentRoute == "/indexing" && (
+              <div className="custom-top-margin custom-bottom-margin">
+              <Indexing/>
               </div>
             )}
           </div>

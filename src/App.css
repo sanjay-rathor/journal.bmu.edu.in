@@ -2,7 +2,6 @@
   text-align: center;
 }
 
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -10,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,7 +22,6 @@
 .App-link {
   color: #61dafb;
 }
-
 
 @keyframes App-logo-spin {
   from {
@@ -52,24 +50,39 @@
   font-size: 14px;
 }
 
-.nav-link
-{
+.nav-link {
   padding: 0.5rem 0.8rem;
 }
-.header strong
-{
-  font-size:25px;
+.header strong {
+  font-size: 25px;
 }
-.header span
-{
-  font-size:15px;
+.header span {
+  font-size: 15px;
 }
-.subbody-content > div
-{
+.subbody-content > div {
   width: max-content;
   margin: 0 auto;
 }
 
-.book-re{
-  text-align: left ;
+.book-re {
+  text-align: left;
+}
+.imggBox {
+  /* display: flex
+; */
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  height: 216px;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.imggBox img {
+  max-height: 100px; /* Control vertical size */
+  max-width: 100%; /* Keep image within box */
+  object-fit: contain; /* Keeps aspect ratio */
 }
