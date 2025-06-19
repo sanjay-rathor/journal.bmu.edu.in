@@ -52,7 +52,8 @@ export default function BrowseJournal() {
                                                             </div>
                                                         </Card.Title>
                                                         <Card.Text>
-                                                            {article.author.name}
+                                                        {article.keywords != null && <span className="abstract-title">Name -: </span>}
+                                                        {article.author.name}
                                                             <br></br>
                                                             {
                                                                 article.author.info != null && article.author.info.map((info) => {
@@ -62,9 +63,23 @@ export default function BrowseJournal() {
                                                                     </div>
                                                                 })
                                                             }
+                                                             <br></br>
+                                                            {article.keywords != null && <span className="abstract-title">Vol -: </span>}
+                                                            {article.volume}
+                                                            <span>{article.keywords != null && <span className="abstract-title">, Issue -: </span>}
+                                                            {article.issue}</span>
                                                             <br></br>
+                                                            {article.keywords != null && <span className="abstract-title">DOI -: </span>}
+                                                            <a href='{article.doiurl}' target='_blank'>{article.doiurl}</a>
+                                                            <br></br>
+                                                            
+                                                            {article.doidate}
+                                                              
+                                                           
+
                                                             {article.abstract != null &&
                                                                 <div className="abstract-title">
+                                                                    <br></br>
                                                                     Abstract
                                                                 </div>
                                                             }

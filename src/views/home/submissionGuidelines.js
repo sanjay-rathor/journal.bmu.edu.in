@@ -112,18 +112,16 @@ export default function SubmissionGuidelines() {
               <div className="col-md-12">
                 <div className="subbody-content">
                   <p>
-                    After an article is submitted for publication in Journal of
-                    Business, Ethics and Society, the first round of assessment
-                    is done by the journal editor/s keeping into consideration
-                    the Aims and Scope of the journal and other basic
-                    requirements like word count, language clarity, originality,
-                    format and presentation. Manuscripts not meeting the set
-                    standards are likely to be desk rejected.
-                  </p>
-                  <p>
-                    The text (including notes and references) should be typed in
-                    Times New Roman, 12 pt with 1.15 line spacing.
-                  </p>
+                  The Journal of Business, Ethics and Society follows a rigorous double-blind peer-review
+process to uphold high academic standards and ensure the publication of original and
+impactful research. All submitted manuscripts undergo an initial editorial screening to assess
+relevance, formatting, and quality. Suitable submissions are then sent anonymously to at
+least two expert reviewers in the field. The identities of both authors and reviewers are kept
+confidential to ensure impartiality. Reviewers evaluate the manuscript based on clarity,
+methodology, originality, and contribution to the discipline. Based on their feedback, the
+editorial team makes an informed decision—acceptance, revision, or rejection. This process
+ensures that all published articles maintain academic integrity and contribute meaningfully to
+scholarly discourse </p>
                 </div>
               </div>
             </div>

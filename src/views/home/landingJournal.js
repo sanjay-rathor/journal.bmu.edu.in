@@ -60,7 +60,7 @@ export default function LandingJournal() {
                       <br></br>
                       <br></br>
                       <span>
-                        Journal of Business, Ethics and Society (JBES) is an
+                        <p>Journal of Business, Ethics and Society (JBES) is an
                         inter-disciplinary bi-annual peer-reviewed open access journal from
                         BML Munjal University that publishes theoretical and
                         empirical research on a broad range of topics concerning
@@ -87,8 +87,9 @@ export default function LandingJournal() {
                         public institutions, not-for-profit institutions and
                         government organizations. The journal has an
                         international focus and welcomes research from all
-                        regions of the world. <br></br>
-                        The journal provides immediate open access to its material on the principle that a larger global sharing of knowledge is supported when research is made accessible to everyone. There are no article submission and processing fees. The contents of this journal fall under the Creative Commons license: Attribution-NonCommercial-NoDervis (CC BY-NC-ND). 
+                        regions of the world.</p> 
+                        <p>It is an open-access online journal that does not charge authors any Article Processing Charges (APCs). Once accepted, articles are published online within a few days and assigned a unique Digital Object Identifier (DOI) to facilitate easy citation and quick downloads.</p>
+                        <p>The journal provides immediate open access to its material on the principle that a larger global sharing of knowledge is supported when research is made accessible to everyone. There are no article submission and processing fees. The contents of this journal fall under the Creative Commons license: Attribution-NonCommercial-NoDervis (CC BY-NC-ND). </p>
                       </span>
                     </span>
                   </div>
