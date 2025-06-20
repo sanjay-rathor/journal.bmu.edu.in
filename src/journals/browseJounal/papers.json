@@ -162,12 +162,12 @@
     },
     
     
-    "volume":"",
-    "issue":"",
-    "doiurl":"",
-    "doidate":"",
+    "volume":"1",
+    "issue":"1",
+    "doiurl":"https://doi.org/10.61781/11I2021/7bmlm",
+    "doidate":"April 2021",
     "abstract": [
-      "Artificial intelligence today continues to assimilate into our modern service industry occupations such as business, economics and health care.  It is predicted that AI will continue to develop exponentially as a business staple and will follow a similar path to The Internet and Social Media in terms of growth opportunities and also the criticality to business.  The concern for many, including Dr. Tae Wan Kim, associate professor of ethics at Carnegie Mellon University, is how the ethics of AI will affect individuals and society. In his recent book review, Machines Like Me, Kim writes on the varied ethical systems potentially used in AI training as he discusses the character development of the text.  Whether a deontological approach or a consequentialist approach, AI is only as good as the training and the data provided.  In this interview he says that to really address ethics issues in AI, much more funding should be given to moral philosophy and applied ethics."
+      "Artificial intelligence today continues to assimilate into our modern service industry occupations such as business, economics and health care. It is predicted that AI will continue to develop exponentially as a business staple and will follow a similar path to The Internet and Social Media in terms of growth opportunities and also the criticality to business. The concern for many, including Dr. Tae Wan Kim, associate professor of ethics at Carnegie Mellon University, is how the ethics of AI will affect individuals and society. In his recent book review, Machines Like Me, Kim writes on the varied ethical systems potentially used in AI training as he discusses the character development of the text. Whether a deontological approach or a consequentialist approach, AI is only as good as the training and the data provided. In this interview he says that to really address ethics issues in AI, much more funding should be given to moral philosophy and applied ethics."
     ]
 
   },
