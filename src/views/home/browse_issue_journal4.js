@@ -100,6 +100,28 @@ export default function BrowseJournal() {
                                                             </span>
                                                             
                                                             }
+
+{article.keywords != null && (
+                                <span className="abstract-title">Vol -: </span>
+                              )}
+                              {article.volume}
+                              <span>
+                                {article.keywords != null && (
+                                  <span className="abstract-title">
+                                    , Issue -:{" "}
+                                  </span>
+                                )}
+                                {article.issue}
+                              </span>
+                              <br></br>
+                              {article.keywords != null && (
+                                <span className="abstract-title">DOI -: </span>
+                              )}
+                              <a href="{article.doiurl}" target="_blank">
+                                {article.doiurl}
+                              </a>
+                              <br></br>
+                              {article.doidate}
                                                            
                                                             {article.abstract != null &&
                                                                 <div className="abstract-title">

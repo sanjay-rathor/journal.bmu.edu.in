@@ -11,10 +11,12 @@
                 ""
             ]
         },
-        "abstract": "It was towards the end of a senior management meeting at BML Munjal University, when the then President Akshay Munjal approached me and said, “You used to head the editorial section as Vice president SAGE editorials. Drawing on your expertise I would request you to start the university’s first journal.” And so, the Journal of Business, Ethics and Society (JBES) was born – a journal that publishes theoretical and empirical research on a broad range of topics focusing on business management, business ethics and societal well-being. With out latest edition of JBES 5:1, we celebrate our fourth year.",
-        "keywords": [
-            
-        ]  
+           "volume": "",
+      "issue": "",
+      "doiurl": "",
+      "doidate": "",
+        "abstract": "It was towards the end of a senior management meeting at BML Munjal University, when the then President Akshay Munjal approached me and said, “You used to head the editorial section as Vice president SAGE editorials. Drawing on your expertise I would request you to start the university’s first journal.” And so, the Journal of Business, Ethics and Society (JBES) was born – a journal that publishes theoretical and empirical research on a broad range of topics focusing on business management, business ethics and societal well-being. With out latest edition of JBES 5:1, we celebrate our fourth year."
+         
     },
     {
         "title": "Beyond the GDP: Advancing Towards Inclusive Wealth Framework",
@@ -28,6 +30,10 @@
                 ""
             ]
         },
+           "volume": "5",
+      "issue": "1",
+      "doiurl": "https://doi.org/10.61781/5-1I2025/1bmlm",
+      "doidate": "April 2025",
         "abstract": "In 2015, the United Nations replaced the Millennium Development Goals (MDGs) with 17 Sustainable Development Goals (SDGs), heralding a more comprehensive approach to sustainable development. This transition highlights significant Global North-South disparities and the limitations of traditional progress metrics such as Gross Domestic Product (GDP). The Inclusive Wealth Framework, integrating natural, human, and produced capital, offers a holistic alternative to GDP by assessing national prosperity through sustainability and intergenerational equity. This paper explores how the Inclusive Wealth Framework can enhance progress metrics and better align with national sustainability objectives, focusing on its relevance for countries like India, and addresses key challenges such as methodological inconsistencies, data quality, and valuation techniques. The findings suggest that incorporating the Inclusive Wealth Framework into the SDGs can provide nuanced insights into sustainable development and support more effective policymaking. Despite its potential, the framework faces several challenges, including the need for improved data quality, refined valuation methods, and further research into the role of private capital flows in promoting inclusive wealth. This study advocates adopting the Inclusive Wealth Framework to provide a more comprehensive understanding of progress toward sustainable development.",
         "keywords": [
             "Sustainable Development Goals (SDGs)",
@@ -50,6 +56,10 @@
                 ""
             ]
         },
+           "volume": "5",
+      "issue": "1",
+      "doiurl": "https://doi.org/10.61781/5-1I2025/2bmlm",
+      "doidate": "April 2025",
         "abstract": "This research investigates India's labour market dynamics from 2017 to 2023, emphasizing labour force participation, worker-population ratio, and unemployment rates. Utilizing a mixed-method approach and data from the Directorate General of Employment, the study reveals positive trends, notably an increase in female labour force participation and worker-population ratio, reflecting improved employment opportunities. Unemployment rates declined, suggesting enhanced job prospects. The research highlights gender-specific variations and year-wise trends, offering insights into the evolving labour landscape. Acknowledging data limitations, the study underscores the impact of government policies on employment and inclusivity, contributing to sustainable growth. By exploring themes of sustainability, crisis resilience, and evolving employment patterns, the study enriches the understanding of India's labour market dynamics. ",
         "keywords": [
             "Labour market", "labour force participation rate (LFPR)", "worker population ratio  (WPR)"," unemployment rate (UR)", "gender analysis", "employment trends", "policy implications", 
@@ -68,6 +78,10 @@
                 ""
             ]
         },
+           "volume": "5",
+      "issue": "1",
+      "doiurl": "https://doi.org/10.61781/5-1I2025/3bmlm",
+      "doidate": "April 2025",
         "abstract": "Workplace communication has evolved over the years due to several factors, including remote work and artificial intelligence. Therefore, organizations need to know how to harness the opportunities arising out of these changes and reduce the negative impacts. This paper examines the role of remote work and artificial intelligence in workplace communication. The paper is anchored on the human relations theory of management and systems theory. Using desk research method, this paper examines a few advantages, disadvantages, and ethical considerations in remote work in relation to workplace communication. In addition, it examines some benefits, drawbacks, and ethical considerations in artificial intelligence in relation to workplace communication. Some recommendations include the need for organizations to continually train and retrain their employees, invest in the right digital tools, and develop remote communication policies.",
         "keywords": [
             "Artificial intelligence", "human communication", "organizational communication", 
@@ -86,6 +100,10 @@
                 ""
             ]
         },
+           "volume": "5",
+      "issue": "1",
+      "doiurl": "https://doi.org/10.61781/5-1I2025/4bmlm",
+      "doidate": "April 2025",
         "abstract": "This paper investigates the invisibility of Dalits in corporate India, arguing that their exclusion from diversity policies, underrepresentation in corporate hierarchies, and systemic discrimination are deliberate outcomes of caste-blind practices within the corporate sector. It contends that this caste-blindness is extended to existing CSR policies, which often generalize poverty alleviation efforts and fail to account for the unique socio-economic challenges faced by Dalits. This paper centers on addressing Dalit invisibility, purporting that it is essential for companies to create CSR initiatives that drive genuine and sustainable change for the community, thereby aligning corporate actions with the true spirit of social responsibility.",
         "keywords": [
             "Dalit", "corporate social responsibility", "social exclusion", "inclusivity"
@@ -103,6 +121,10 @@
                 ""
             ]
         },
+           "volume": "5",
+      "issue": "1",
+      "doiurl": "https://doi.org/10.61781/5-1I2025/5bmlm",
+      "doidate": "April 2025",
         "abstract": "This conceptual paper develops an integrative theoretical framework to understand entrepreneurs' propensity for corruption through the lens of rational choice theory. While entrepreneurship is often celebrated for contributing to economic development and innovation, the dark side of entrepreneurial behavior, particularly corruption, remains understudied. The author proposes a comprehensive model that explains how entrepreneurs evaluate and engage in corrupt practices. It is argued that entrepreneurs' decisions to engage in corruption are influenced by rational calculations of costs and benefits and the interplay between internalized norms and deliberative decision-making processes. This paper contributes to organizational theory by bridging the gap between rational choice and normative approaches to ethical decision-making while offering practical insights for anti-corruption efforts in entrepreneurial contexts.",
         "keywords": [
             "Entrepreneurship", "corruption", "ethical decision-making", "rational choice theory", 
@@ -121,6 +143,10 @@
                 ""
             ]
         },
+           "volume": "",
+      "issue": "",
+      "doiurl": "",
+      "doidate": "",
         "abstract": null,
         "keywords": null
     },
@@ -136,6 +162,10 @@
                 ""
             ]
         },
+           "volume": "",
+      "issue": "",
+      "doiurl": "",
+      "doidate": "",
         "abstract": null,
         "keywords": null
     }

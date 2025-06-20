@@ -102,6 +102,7 @@ export default function BrowseJournal() {
                                 </span>
                               )}
 
+
                               {article.author3 != null && (
                                 <span>
                                   {article.author3.name}
@@ -118,6 +119,30 @@ export default function BrowseJournal() {
                                   <br></br>
                                 </span>
                               )}
+
+<br></br>
+                              {article.keywords != null && (
+                                <span className="abstract-title">Vol -: </span>
+                              )}
+                              {article.volume}
+                              <span>
+                                {article.keywords != null && (
+                                  <span className="abstract-title">
+                                    , Issue -:{" "}
+                                  </span>
+                                )}
+                                {article.issue}
+                              </span>
+                              <br></br>
+                              {article.keywords != null && (
+                                <span className="abstract-title">DOI -: </span>
+                              )}
+                              <a href="{article.doiurl}" target="_blank">
+                                {article.doiurl}
+                              </a>
+                              <br></br>
+                              {article.doidate}
+                              <br></br>
 
                               {article.abstract != null && (
                                 <div className="abstract-title">Abstract</div>
