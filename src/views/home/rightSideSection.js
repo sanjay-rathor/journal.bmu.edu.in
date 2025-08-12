@@ -33,13 +33,13 @@ export default function RightSideSection() {
                 <div className="side-heading">
                   
                   <p><a
-                    href="journal-files/jbes_cfp_v5.pdf"
+                    href="journal-files/call_for_paper_v6_i1.pdf"
                     target="_blank"
                   > <strong>Call for Papers</strong>
                      <br/>
                   
-                  Volume 5, Issue 2 ( October 2025) <br/>
-                  <strong>Theme -</strong> Decent Work and  Economic Growth: Advancing  SDG8 through Ethical Business Practices</a></p>
+                  Volume 6, Issue 1 ( April 2026) <br/>
+                  <strong>Theme -</strong> Reframing Organizational Purpose: Stakeholder Cognition, Executive Sensemaking, and the Future of Business</a></p>
 
                 </div>
               </div>
