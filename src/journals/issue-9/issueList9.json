@@ -1,11 +1,11 @@
 [
     {
-        "title": "Unveiling Sustainability's Shadows Through PESTEL Analysis",
+        "title": "Beyond the GDP: Advancing Towards Inclusive Wealth Framework",
         "type": "Research Paper",
         "issue2": true,
-        "link": "journal-files/1MALIK-v5i1.pdf",
+        "link": "journal-files/1Beyond.pdf",
         "author": {
-            "name": "D M Arvind Mallik",
+            "name": "Soumya Bhowmick",
             "name_raw": "",
             "info": [
                 ""
@@ -13,26 +13,24 @@
         },
         "volume": "5",
         "issue": "1",
-        "doiurl": "https://doi.org/10.61781/5-2II2025/1bmlm",
+        "doiurl": "https://doi.org/10.61781/5-1I2025/2bmlm",
         "doidate": "October 2025",
-        "abstract": "This study employs the PESTEL framework to critically examine the dark side of sustainability, focusing on systemic paradoxes and negative externalities in sustainability initiatives. Using a qualitative approach, it synthesizes secondary data from case studies and literature reviews in technology, construction, and agriculture to assess sustainability complexities. The analysis reveals that political incoherence, economic disparities, social resistance, rapid technological shifts, environmental trade-offs, and fragmented legal frameworks create unintended consequences, limiting the effectiveness of sustainability efforts. By offering the first comprehensive PESTEL-based analysis of sustainability paradoxes, this research underscores the necessity of structured risk identification to enhance decision-making and refine sustainable development strategies. It emphasizes the social implications for corporations, policymakers, and academia, advocating for community-driven initiatives, adaptive legal frameworks, and international collaboration to address inequities, particularly between developed and developing nations, in transitioning to low-carbon economies.",
+        "abstract": "In 2015, the United Nations replaced the Millennium Development Goals (MDGs) with 17 Sustainable Development Goals(SDGs), heralding a more comprehensive approach to sustainable development.This transition highlights significant Global North - South disparities and the limitations of traditional progress metrics such as Gross Domestic Product(GDP).The Inclusive Wealth Framework, integrating natural, human, and produced capital, offers a holistic alternative to GDP by assessing national prosperity through sustainability and intergenerational equity.This paper explores how the Inclusive Wealth Framework can enhance progress metrics and better align with national sustainability objectives, focusing on its relevance for countries like India, and addresses key challenges such as methodological inconsistencies, data quality, and valuation techniques.The findings suggest that incorporating the Inclusive Wealth Framework into the SDGs can provide nuanced insights into sustainable development and support more effective policymaking.Despite its potential, the framework faces several challenges, including the need for improved data quality, refined valuation methods, and further research into the role of private capital flows in promoting inclusive wealth.This study advocates adopting the Inclusive Wealth Framework to provide a more comprehensive understanding of progress toward sustainable development.",
         "keywords": [
-            "Sustainability",
-            "Dark side",
-            "PESTEL framework",
-            "Negative outcomes",
-            "Impacts and evaluation",
-            "Implications",
-            "Conceptual framework"
+            "Sustainable Development Goals (SDGs)",
+            "Gross Domestic Product (GDP)",
+            "produced capital",
+            "natural capital",
+            "human capital"
         ]
     },
     {
-        "title": "Infusing Workplace Spirituality and Ethics with Bhakti Marg",
+        "title": "Decoding the Labour Landscape: An In-Depth Exploration of India's Labour Market Trends and Dynamics (2017-2023) ",
         "type": "Research Paper",
         "issue2": true,
-        "link": "journal-files/2AGARWAL-v5i1.pdf",
+        "link": "journal-files/2Decoding.pdf",
         "author": {
-            "name": "Aditya Agrawal",
+            "name": "Nitish Kumar Minz and Deepika Chaudhary",
             "name_raw": "",
             "info": [
                 ""
@@ -40,26 +38,30 @@
         },
         "volume": "5",
         "issue": "1",
-        "doiurl": "https://doi.org/10.61781/5-2II2025/2bmlm",
+        "doiurl": "https://doi.org/10.61781/5-1I2025/2bmlm",
         "doidate": "October 2025",
         "abstract": "This study examines Bhakti marga, the devotional path in Hinduism characterized by deep immersion and complete submission to the divine. The research focuses on the Prema-margi branch of Bhakti, which emphasizes love-based devotion to deities with form, contrasting with the knowledge-based Gyan-margi tradition. This paper demonstrates how Bhakti traditions foster community engagement, compassion and emotional transformation through participatory devotional activities that transcend social boundaries. This has significant implications for management practices through service-oriented leadership models and emotional intelligence frameworks derived from various bhavas. The tradition's emphasis on ego dissolution, selfless service and authentic devotion provides valuable insights for an ethical living at both the individual and leadership levels.",
         "keywords": [
-            "Spirituality in the workplace",
-            "Bhava",
-            "Types of Bhakti",
-            "Ethics",
-            "Compassion",
-            "Inclusive workplace",
-            "Emotions"
+            "Labour market",
+            "labour force participation rate (LFPR)",
+            "worker population ratio (WPR)",
+            "unemployment rate (UR)",
+            "gender analysis",
+            "employment trends",
+            "policy implications",
+            "India",
+            "sustainability",
+            "crisis resilience",
+            "macroscopic view "
         ]
     },
     {
-        "title": "Community-Embedded Entrepreneurship as a Force for Good:  Insights from Philippine Case Studies ",
+        "title": "Remote Work and AI in Workplace Communication: Pros, Cons and Ethical Considerations ",
         "type": "Research Paper",
         "issue2": true,
-        "link": "journal-files/3ROBES-v5i1.pdf",
+        "link": "journal-files/3Remote.pdf",
         "author": {
-            "name": "John Laurence A. Robes and Patrick Adriel H. Aure",
+            "name": "Ayishat Sandra Olanrewaju",
             "name_raw": "",
             "info": [
                 ""
@@ -67,25 +69,23 @@
         },
         "volume": "5",
         "issue": "1",
-        "doiurl": "https://doi.org/10.61781/5-2II2025/3bmlm",
+        "doiurl": "https://doi.org/10.61781/5-1I2025/3bmlm ",
         "doidate": "October 2025",
-        "abstract": "Entrepreneurs increasingly recognize that being a force for good requires genuine partnership with marginalized communities, creating opportunities to challenge conventional business and development thinking. Through analysis of four award-winning Philippine social enterprises, this study examines how these partnerships generate economic, social, environmental, and cultural value simultaneously. The enterprises studied demonstrate strategic hybridity, dynamically navigating between traditional practices and market demands rather than choosing one over the other. Resource constraints and cultural assets, typically viewed as limitations, become sources of innovation unavailable to mainstream businesses. These community-embedded enterprises achieve what we term embedded autonomy —gaining market flexibility precisely through deepening community ties rather than loosening them. The findings suggest that business as a force for good requires recognizing and supporting diverse organizational forms emerging from the margins, not imposing standardized models. This has implications for development practice, funding approaches, and how we theorize entrepreneurship itself.",
+        "abstract": "Workplace communication has evolved over the years due to several factors, including remote work and artificial intelligence. Therefore, organizations need to know how to harness the opportunities arising out of these changes and reduce the negative impacts. This paper examines the role of remote work and artificial intelligence in workplace communication. The paper is anchored on the human relations theory of management and systems theory. Using desk research method, this paper examines a few advantages, disadvantages and ethical considerations in remote work in relation to workplace communication. In addition, it examines some benefits, drawbacks, and ethical considerations in artificial intelligence in relation to workplace communication. Some recommendations include the need for organizations to continually train and retrain their employees, invest in the right digital tools and develop remote communication policies.",
         "keywords": [
-            "Community-embedded entrepreneurship",
-            "Social enterprise",
-            "Indigenous innovation",
-            "Strategic hybridity",
-            "Business as a force for good",
-            "Philippines"
+            "Artificial intelligence",
+            "human communication",
+            "organizational communication",
+            "workplace communication"
         ]
     },
     {
-        "title": "Economic and Political Factors Affecting Local Firm Productivity Among Philippine Cities ",
+        "title": "CSR and Inclusivity: A Case for Dalit Upliftment through CSR",
         "type": "Research Paper",
         "issue2": true,
-        "link": "journal-files/4CASTRO-v5i1.pdf",
+        "link": "journal-files/4CSR.pdf",
         "author": {
-            "name": "Kenneth Michael A. De Castro",
+            "name": "Aabha Netam",
             "name_raw": "",
             "info": [
                 ""
@@ -93,24 +93,23 @@
         },
         "volume": "5",
         "issue": "1",
-        "doiurl": "https://doi.org/10.61781/5-2II2025/4bmlm",
+        "doiurl": "https://doi.org/10.61781/5-1I2025/4bmlm",
         "doidate": "October 2025",
-        "abstract": "While firm productivity is largely driven by economic factors such as availability of labor, capital, resources, and markets, local governments play a crucial role in enhancing productivity within their respective jurisdictions. Their influence extends across various sectors and functions, making them indispensable to economic development. However, limited studies were done in the context of developing economies, including the Philippines; hence, this study offers the novelty of being one of the few to examine the effect of selected economic and political factors on local firm productivity among cities in the Philippines. Using a panel data covering five years from 2019 to 2023, among the economic factors, the size of the local economy and the level of financial deepening significantly affect local firm productivity, while among the political factors, the city’s degree of autonomy significantly affects local firm productivity. This study aims to help local government units create and implement crucial economic and governance policies as an enabling mechanism for sustainable economic development.",
+        "abstract": "This paper investigates the invisibility of Dalits in corporate India, arguing that their exclusion from diversity policies, underrepresentation in corporate hierarchies, and systemic discrimination are deliberate outcomes of caste-blind practices within the corporate sector. It contends that this caste-blindness is extended to existing CSR policies, which often generalize poverty alleviation efforts, and so fail to account for the unique socio-economic challenges faced by Dalits. This paper centres on addressing Dalit invisibility, purporting that it is essential for companies to create CSR initiatives that drive genuine and sustainable change for the community, thereby aligning corporate actions with the true spirit of social responsibility.",
         "keywords": [
-            "Government efficiency",
-            "firm productivity",
-            "governance",
-            "local government units",
-            "public policy"
+            "Dalit",
+            "corporate social responsibility",
+            "social exclusion",
+            "inclusivity"
         ]
     },
     {
-        "title": "Microfinance and Mission Drift: Navigating the Ethical Tensions Between Financial Self-Sufficiency and Poverty Alleviation",
+        "title": "Entrepreneurs’ Propensity for Corruption: A Theoretical Framework",
         "type": "Research Paper",
         "issue2": true,
-        "link": "journal-files/5BIRADAR-v5i1.pdf",
+        "link": "journal-files/5Entrepreneurs.pdf",
         "author": {
-            "name": "Basamma Biradar and Lisa Deas",
+            "name": "Jyro B. Triviño",
             "name_raw": "",
             "info": [
                 ""
@@ -118,20 +117,25 @@
         },
         "volume": "5",
         "issue": "1",
-        "doiurl": "https://doi.org/10.61781/5-2II2025/5bmlm",
+        "doiurl": "https://doi.org/10.61781/5-1I2025/5bmlm",
         "doidate": "October 2025",
-        "abstract": "Indian Microfinance Institutions (MFIs) have historically worked towards generating social benefits through activities aimed at poverty reduction and financial inclusion, while maintaining financial stability. However, growing commercialisation and structural transformation within the sector can lead to mission drift, the gradual departure of an organisation from its founding social objectives. Through comparative case studies of SKS Microfinance, CreditAccess Grameen Ltd, Bandhan Bank and SEWA, this paper examines how institutional transitions, from NGOs to NBFCs or universal banks, impact client targeting, lending practices, and governance priorities. Findings suggest that organisational structure plays a key role in either safeguarding or undermining mission integrity. This study highlights the tension between financial sustainability and poverty outreach, offering insights for policymakers, social investors, and MFI leaders on how to preserve social purpose while scaling operations in competitive markets.",
+        "abstract": "This conceptual paper develops an integrative theoretical framework to understand entrepreneurs' propensity for corruption through the lens of rational choice theory. While entrepreneurship is often celebrated for contributing to economic development and innovation, the dark side of entrepreneurial behaviour, particularly corruption, remains understudied. The author proposes a comprehensive model that explains how entrepreneurs evaluate and engage in corrupt practices. It is argued that entrepreneurs' decisions to engage in corruption are influenced by rational calculations of costs and benefits and the interplay between internalized norms and deliberative decision-making processes. This paper contributes to organizational theory by bridging the gap between rational choice and normative approaches to ethical decision-making while offering practical insights for anti-corruption efforts in entrepreneurial contexts. ",
         "keywords": [
-            null
+            "Entrepreneurship",
+            "corruption",
+            "ethical decision-making",
+            "rational choice theory",
+            "norm internalization",
+            "behavioural ethics"
         ]
     },
     {
-        "title": "Thriving in Disruption: Agile Organizations, Collective Leadership and New Work by Neha Chatwani, Indus Source Books (2025)",
+        "title": "Waiting for Shiva: Unearthing the Truth of Kashi’s Gyan Vapi. By Vikram Sampath (Ink Occam, 2024) ",
         "type": "Book Review",
         "issue2": true,
-        "link": "journal-files/BKR-BHATT-v5i1-br1.pdf",
+        "link": "journal-files/BKR.pdf",
         "author": {
-            "name": "Pooja Bhatt",
+            "name": "Sukrit Banerjee",
             "name_raw": "",
             "info": [
                 ""
@@ -145,12 +149,12 @@
         "keywords": null
     },
     {
-        "title": "The Fearless Diversity, Equity and Inclusion Practitioner by Roman Ruzbacky, Fiona Krautil, Tom Verghese, Synergistic Press (2024) ",
+        "title": "Deconstructing Moral Responsibility: Book Review Essay",
         "type": "Book Review",
         "issue2": true,
-        "link": "journal-files/BKR-LUNDY-v5i1-br2.pdf",
+        "link": "journal-files/BKR-2.pdf",
         "author": {
-            "name": "Dr. Judy Lundy",
+            "name": "Bruce Hiebert",
             "name_raw": "",
             "info": [
                 ""

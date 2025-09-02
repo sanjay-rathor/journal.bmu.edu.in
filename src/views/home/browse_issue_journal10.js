@@ -1,7 +1,7 @@
 import React from "react";
 import { authenticationService } from "../../services";
 import { createBrowserHistory } from "history";
-import ISSUES_LIST from "../../journals/issue-9/issueList9.json";
+import ISSUES_LIST from "../../journals/issue-10/issueList10.json";
 import SearchBar from "../main/searchbar";
 import Nav from "react-bootstrap/Nav";
 import PDFICON from "../../images/pdf.svg";
@@ -19,7 +19,7 @@ import {
 } from "react-bootstrap";
 const browserHistory = createBrowserHistory();
 
-export default function BrowseJournalIssue9() {
+export default function BrowseJournalIssue10() {
   return (
     <div className="row justify-content-md-center">
       <div className="col-md-12">
@@ -28,7 +28,7 @@ export default function BrowseJournalIssue9() {
             <div className="row">
               <div className="col-md-5 content-text"></div>
               <div className="col-md-6 content-text">
-                <h5 className="content-tab-title-issue">Vol. 5 Issue 1</h5>
+                <h5 className="content-tab-title-issue">Vol. 5 Issue 2</h5>
               </div>
             </div>
             <div className="row ">
