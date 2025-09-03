@@ -130,7 +130,7 @@ export default function Landing(props) {
                   Publisher
                 </Nav.Link>
               </Nav.Item>
-              
+
               {/* <Nav.Item>
                                 <Nav.Link eventKey="/browse-journal" href="/browse-journal" className="nav-link-tab">
                                     Browse Journal
@@ -204,15 +204,13 @@ export default function Landing(props) {
                 >
                   Vol. 5 Issue 1 (April 2025){" "}
                 </NavDropdown.Item>
-                <NavDropdown.Item
+                {/* <NavDropdown.Item
                   className="nav-link-tab"
                   eventKey="/browse-journal-vol-5-issue-2"
                   href="/browse-journal-vol-5-issue-2"
                 >
                   Vol. 5 Issue 2 (October 2025){" "}
-                </NavDropdown.Item>
-                
-                
+                </NavDropdown.Item> */}
               </NavDropdown>
               <Nav.Item>
                 <Nav.Link
@@ -366,7 +364,7 @@ export default function Landing(props) {
             )}
             {currentRoute == "/indexing" && (
               <div className="custom-top-margin custom-bottom-margin">
-              <Indexing/>
+                <Indexing />
               </div>
             )}
           </div>

@@ -25,6 +25,7 @@ const browserHistory = createBrowserHistory();
 export default function LandingJournal() {
   //   console.log(InternaionalEditors);
   const latestArticles = restService.getLatestArticles();
+
   const [count, setCount] = useState(0);
 
   return (
@@ -40,56 +41,52 @@ export default function LandingJournal() {
                 <div className="row">
                   <div className="col-md-12">
                     <span className="content-title">
-                      <span className="content-label">
+                      {/* <span className="content-label">
                         ISSN:
                         <span className="content-label-text">
                           &nbsp;&nbsp;&nbsp;2583-8520
                         </span>
-                      </span>
+                      </span> */}
                       <br></br>
                       <span className="content-label">
                         Editor In-Chief:
                         <span className="content-label-text">
-                          &nbsp;&nbsp;Prof. Payal Kumar
+                          &nbsp;&nbsp;D M Arvind Mallik
                         </span>
                       </span>
                       <br></br>
                       <span className="content-label">
-                        Vol 5. Issue 1 - April 2025  
+                        Vol 5. Issue 2 - October 2025
                       </span>
                       <br></br>
                       <br></br>
                       <span>
-                        <p>Journal of Business, Ethics and Society (JBES) is an
-                        inter-disciplinary bi-annual peer-reviewed open access journal from
-                        BML Munjal University that publishes theoretical and
-                        empirical research on a broad range of topics concerning
-                        business management, business ethics and societal
-                        well-being. The journal started its operation in 2021.
-                        The double-blind peer-reviewed journal broadly focuses
-                        on the intersectionality of ethics and businesses,
-                        ethics and civil societies, and also on topics such as
-                        corporate social responsibility, social entrepreneurship
-                        and power relationships. Addressing the need for an
-                        ethical response to the emerging challenges and trends
-                        in management, and also challenges in society (such as
-                        pandemics, and world recession) which impact ethical
-                        decisions and behaviour, articles can range from how a
-                        pandemic can lead to ethical dilemmas for leaders in the
-                        medical profession; to how a leader indulging in
-                        greenwashing, or providing misleading information about
-                        so-called environmentally-sound products, could actually
-                        be harming the environment. JBES is a bridge journal,
-                        exploring issues of interest to both researchers as well
-                        as industry leaders and HRM professionals. As such this
-                        journal provides a forum for deliberations and exchange
-                        of ideas and knowledge among academia, businesses,
-                        public institutions, not-for-profit institutions and
-                        government organizations. The journal has an
-                        international focus and welcomes research from all
-                        regions of the world.</p> 
-                        <p>It is an open-access online journal that does not charge authors any Article Processing Charges (APCs). Once accepted, articles are published online within a few days and assigned a unique Digital Object Identifier (DOI) to facilitate easy citation and quick downloads.</p>
-                        <p>The journal provides immediate open access to its material on the principle that a larger global sharing of knowledge is supported when research is made accessible to everyone. There are no article submission and processing fees. The contents of this journal fall under the Creative Commons license: Attribution-NonCommercial-NoDervis (CC BY-NC-ND). </p>
+                        <p>
+                          This study employs the PESTEL framework to critically
+                          examine the dark side of sustainability, focusing on
+                          systemic paradoxes and negative externalities in
+                          sustainability initiatives. Using a qualitative
+                          approach, it synthesizes secondary data from case
+                          studies and literature reviews in technology,
+                          construction, and agriculture to assess sustainability
+                          complexities. The analysis reveals that political
+                          incoherence, economic disparities, social resistance,
+                          rapid technological shifts, environmental trade-offs,
+                          and fragmented legal frameworks create unintended
+                          consequences, limiting the effectiveness of
+                          sustainability efforts. By offering the first
+                          comprehensive PESTEL-based analysis of sustainability
+                          paradoxes, this research underscores the necessity of
+                          structured risk identification to enhance
+                          decision-making and refine sustainable development
+                          strategies. It emphasizes the social implications for
+                          corporations, policymakers, and academia, advocating
+                          for community-driven initiatives, adaptive legal
+                          frameworks, and international collaboration to address
+                          inequities, particularly between developed and
+                          developing nations, in transitioning to low-carbon
+                          economies.
+                        </p>
                       </span>
                     </span>
                   </div>
@@ -114,25 +111,31 @@ export default function LandingJournal() {
                 </Nav>
               </div>
               {(() => {
-  const hiddenTypes = ["Book Review"]; // Define inside the scope
+                const hiddenTypes = ["Book Review"]; // Define inside the scope
 
-  return latestArticles
-    .filter(article => !hiddenTypes.includes(article.type)) // Hide specified types
-    .map((article, index) => {
-      return (
-        <div className="col-md-12 content-text" key={index}>
-          <Card style={{ width: "100%" }}>
-            <Card.Body>
-              {console.log("Author Name:", article.author.name)}
-              <Badge variant="primary">{article.type}</Badge>
-              <Card.Title>
-                <a href={"/browse-journal-vol-5-issue-1#" + article.title}>
-                  {article.title}
-                </a>
-              </Card.Title>
-              <Card.Text>
-                {article.author.name}
-                  {/* article.author.info.map((info) => {
+                return latestArticles
+                  .filter((article) => !hiddenTypes.includes(article.type)) // Hide specified types
+                  .map((article, index) => {
+                    return (
+                      <div className="col-md-12 content-text" key={index}>
+                        <Card style={{ width: "100%" }}>
+                          <Card.Body>
+                            {console.log("Author Name:", article.author.name)}
+                            <Badge variant="primary">{article.type}</Badge>
+                            <Card.Title>
+                              <a
+                                href={
+                                  "/browse-journal-vol-5-issue-2#" +
+                                  article.title
+                                }
+                              >
+                                {" "}
+                                {article.title}
+                              </a>
+                            </Card.Title>
+                            <Card.Text>
+                              {article.author.name}
+                              {/* article.author.info.map((info) => {
                             return (
                               <div>
                                 {info}
@@ -140,15 +143,13 @@ export default function LandingJournal() {
                               </div>
                             );
                           }) */}
-              </Card.Text>
-            </Card.Body>
-          </Card>
-        </div>
-      );
-    });
-})()}
-
-
+                            </Card.Text>
+                          </Card.Body>
+                        </Card>
+                      </div>
+                    );
+                  });
+              })()}
             </div>
             <div className="row">
               <div className="col-md-12 ">
