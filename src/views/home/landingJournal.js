@@ -54,10 +54,10 @@ export default function LandingJournal() {
                           &nbsp;&nbsp;Prof. Payal Kumar
                         </span>
                       </span>
-                      <br></br>
-                      <span className="content-label">
+                      {/* <br></br> */}
+                      {/* <span className="content-label">
                         Vol 5. Issue 2 - October 2025
-                      </span>
+                      </span> */}
                       <br></br>
                       <br></br>
                       <span>
