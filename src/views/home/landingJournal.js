@@ -41,17 +41,17 @@ export default function LandingJournal() {
                 <div className="row">
                   <div className="col-md-12">
                     <span className="content-title">
-                      {/* <span className="content-label">
+                      <span className="content-label">
                         ISSN:
                         <span className="content-label-text">
                           &nbsp;&nbsp;&nbsp;2583-8520
                         </span>
-                      </span> */}
+                      </span>
                       <br></br>
                       <span className="content-label">
                         Editor In-Chief:
                         <span className="content-label-text">
-                          &nbsp;&nbsp;D M Arvind Mallik
+                          &nbsp;&nbsp;Prof. Payal Kumar
                         </span>
                       </span>
                       <br></br>
@@ -62,30 +62,34 @@ export default function LandingJournal() {
                       <br></br>
                       <span>
                         <p>
-                          This study employs the PESTEL framework to critically
-                          examine the dark side of sustainability, focusing on
-                          systemic paradoxes and negative externalities in
-                          sustainability initiatives. Using a qualitative
-                          approach, it synthesizes secondary data from case
-                          studies and literature reviews in technology,
-                          construction, and agriculture to assess sustainability
-                          complexities. The analysis reveals that political
-                          incoherence, economic disparities, social resistance,
-                          rapid technological shifts, environmental trade-offs,
-                          and fragmented legal frameworks create unintended
-                          consequences, limiting the effectiveness of
-                          sustainability efforts. By offering the first
-                          comprehensive PESTEL-based analysis of sustainability
-                          paradoxes, this research underscores the necessity of
-                          structured risk identification to enhance
-                          decision-making and refine sustainable development
-                          strategies. It emphasizes the social implications for
-                          corporations, policymakers, and academia, advocating
-                          for community-driven initiatives, adaptive legal
-                          frameworks, and international collaboration to address
-                          inequities, particularly between developed and
-                          developing nations, in transitioning to low-carbon
-                          economies.
+                        Journal of Business, Ethics and Society (JBES) is an
+                        inter-disciplinary bi-annual peer-reviewed journal from
+                        BML Munjal University that publishes theoretical and
+                        empirical research on a broad range of topics concerning
+                        business management, business ethics and societal
+                        well-being. The journal started its operation in 2021.
+                        The double-blind peer-reviewed journal broadly focuses
+                        on the intersectionality of ethics and businesses,
+                        ethics and civil societies, and also on topics such as
+                        corporate social responsibility, social entrepreneurship
+                        and power relationships. Addressing the need for an
+                        ethical response to the emerging challenges and trends
+                        in management, and also challenges in society (such as
+                        pandemics, and world recession) which impact ethical
+                        decisions and behaviour, articles can range from how a
+                        pandemic can lead to ethical dilemmas for leaders in the
+                        medical profession; to how a leader indulging in
+                        greenwashing, or providing misleading information about
+                        so-called environmentally-sound products, could actually
+                        be harming the environment. JBES is a bridge journal,
+                        exploring issues of interest to both researchers as well
+                        as industry leaders and HRM professionals. As such this
+                        journal provides a forum for deliberations and exchange
+                        of ideas and knowledge among academia, businesses,
+                        public institutions, not-for-profit institutions and
+                        government organizations. The journal has an
+                        international focus and welcomes research from all
+                        regions of the world.
                         </p>
                       </span>
                     </span>
@@ -105,7 +109,7 @@ export default function LandingJournal() {
                       href="/"
                       className="nav-link-section"
                     >
-                      Latest content
+                      Latest content Vol-5 Issue-2
                     </Nav.Link>
                   </Nav.Item>
                 </Nav>
