@@ -33,7 +33,7 @@ export default function ContactUs() {
                         {/* <br />
                         <span>Deputy Librarian</span> */}
                       </p>
-                      <h4>BML Munjal University</h4>
+                      <h4>BML Munjal University   </h4>
                       <h4>
                         <a href="mailto:Library@bmu.edu.in">
                           library@bmu.edu.in
@@ -68,8 +68,8 @@ export default function ContactUs() {
                         
                         <h4>BML Munjal University</h4>
                         
-                        <p>67th Milestone, National Highway - 8 Sidhrawali, 
-                        <br/>Gurugram, Haryana -122413</p>
+                        <p>67th Milestone, National Highway-8<br/> Sidhrawali, 
+                        Gurugram, <br/>Haryana -122413</p>
                      
                     </div>
                   </div>
