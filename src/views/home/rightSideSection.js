@@ -89,7 +89,7 @@ export default function RightSideSection() {
                   <Card.Body>
                     <Badge variant="primary">{article.type}</Badge>
                     <Card.Title>
-                      <a href={"/browse-journal-vol-5-issue-1#" + article.title}>
+                      <a href={"/browse-journal-vol-5-issue-2#" + article.title}>
                         {article.title}
                       </a>
                       

@@ -121,7 +121,7 @@ export default function Landing(props) {
                   Editorial Board
                 </Nav.Link>
               </Nav.Item>
-              <Nav.Item>
+              {/* <Nav.Item>
                 <Nav.Link
                   eventKey="/publisher"
                   href="/publisher"
@@ -129,7 +129,7 @@ export default function Landing(props) {
                 >
                   Publisher
                 </Nav.Link>
-              </Nav.Item>
+              </Nav.Item> */}
 
               {/* <Nav.Item>
                                 <Nav.Link eventKey="/browse-journal" href="/browse-journal" className="nav-link-tab">

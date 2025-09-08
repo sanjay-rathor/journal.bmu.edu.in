@@ -41,6 +41,7 @@ export default function ContactUs() {
                       </h4>
                     </div>
                   </div>
+                  
                   {/* <div className="row">
                             <div className="col-md-12">
                                <ArticlesGridContainer />
@@ -54,7 +55,31 @@ export default function ContactUs() {
             </div>
           </div>
         </div>
+        <div className="row content-space-around">
+          <div className="col-md-12 col-sm-12 body-container ">
+            <div className="row justify-content-md-center ">
+              <div className="col-md-10">
+                <div className="subbody-coming-soon">
+                  <div className="subbody-content aims container">
+                    <div>
+                      <p className="header">
+                        <strong>Publisher</strong>
+                        </p>
+                        
+                        <h4>BML Munjal University</h4>
+                        
+                        <p>67th Milestone, National Highway - 8 Sidhrawali, 
+                        <br/>Gurugram, Haryana -122413</p>
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+      
     </div>
   );
 }
