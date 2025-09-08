@@ -35,7 +35,7 @@ export default function ContactUs() {
                       </p>
                       <h4>BML Munjal University   </h4>
                       <h4>
-                        <a href="mailto:Library@bmu.edu.in">
+                        <a href="mailto:library@bmu.edu.in">
                           library@bmu.edu.in
                         </a>
                       </h4>
