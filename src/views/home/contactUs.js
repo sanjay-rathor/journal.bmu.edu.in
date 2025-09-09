@@ -29,16 +29,34 @@ export default function ContactUs() {
                   <div className="subbody-content aims container">
                     <div>
                       <p className="header">
-                        <strong>Librarian</strong>
-                        {/* <br />
-                        <span>Deputy Librarian</span> */}
-                      </p>
+                        <strong>Editor In-Chief</strong>
+                        <br />
+                        
+                        <h5>Prof. Dr Payal Kumar</h5>
+                     
+                  </p>
+                  <h4>
+                        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=payalk1@gmail.com"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        payalk1@gmail.com
+                        </a>
+                      </h4>
+                 
+                  {/* <span> <a
+                    href="https://mail.google.com/mail/?view=cm&fs=1&to=payalk1@gmail.com"
+                    className="side-question-tab"
+                    target="_blank"
+                    rel="noopener noreferrer" > 
+                    Contact Prof. Dr Payal Kumar
+                  </a></span> */}
+                    
                       <h4>BML Munjal University   </h4>
-                      <h4>
+                      {/* <h4>
                         <a href="mailto:library@bmu.edu.in">
                           library@bmu.edu.in
                         </a>
-                      </h4>
+                      </h4> */}
                     </div>
                   </div>
                   

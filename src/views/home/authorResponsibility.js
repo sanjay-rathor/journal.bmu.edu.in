@@ -87,9 +87,9 @@ export default function AuthorResponsibility() {
                         <div className="col-md-12 " >
                              <img  className="strip-image" src={STRIP_LOGO}></img>
                             </div>
-                            <div className="col-md-12" >
+                            {/* <div className="col-md-12" >
                                 <Badge className="subcribe-btn">SUBSCRIBE</Badge>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     <div className="col-md-3 col-sm-12 d-sm-block">

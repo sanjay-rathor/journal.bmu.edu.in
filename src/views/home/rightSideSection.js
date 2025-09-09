@@ -114,13 +114,14 @@ export default function RightSideSection() {
                 </Badge>
               </div>
               <div className="col-md-12">
+            
                 <Badge>
                   <a
-                    href="mailto:payalk1@gmail.com"
+                    href="https://mail.google.com/mail/?view=cm&fs=1&to=payalk1@gmail.com"
                     className="side-question-tab"
-                  >
-                    {" "}
-                    Contact Prof. Dr Payal Kumar{" "}
+                    target="_blank"
+                    rel="noopener noreferrer" > 
+                    Contact Prof. Dr Payal Kumar
                   </a>
                 </Badge>
               </div>
@@ -139,11 +140,11 @@ export default function RightSideSection() {
               </div>
               <div className="col-md-12 custom-padding">
                 <ListGroup>
-                  <ListGroup.Item>
+                  {/* <ListGroup.Item>
                     <a href="/submission-guidelines#manuscript">
                       Submit Manuscript
                     </a>
-                  </ListGroup.Item>
+                  </ListGroup.Item> */}
                   <ListGroup.Item>
                     <a href="/submission-guidelines">Article Submission</a>
                   </ListGroup.Item>

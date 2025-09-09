@@ -91,6 +91,7 @@ export default function LandingJournal() {
                         international focus and welcomes research from all
                         regions of the world.
                         </p>
+                        <p>The journal provides immediate open access to its material on the principle that a larger global sharing of knowledge is supported when research is made accessible to everyone. There are no article submission and processing fees. The contents of this journal fall under the Creative Commons license: Attribution-NonCommercial-NoDervis (CC BY-NC-ND). For more information, go to <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><b> https://creativecommons.org/licenses/by-nc-nd/4.0/</b></a></p>
                       </span>
                     </span>
                   </div>
