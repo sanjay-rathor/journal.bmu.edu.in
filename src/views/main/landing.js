@@ -204,13 +204,13 @@ export default function Landing(props) {
                 >
                   Vol. 5 Issue 1 (April 2025){" "}
                 </NavDropdown.Item>
-                {/* <NavDropdown.Item
+                <NavDropdown.Item
                   className="nav-link-tab"
                   eventKey="/browse-journal-vol-5-issue-2"
                   href="/browse-journal-vol-5-issue-2"
                 >
                   Vol. 5 Issue 2 (October 2025){" "}
-                </NavDropdown.Item> */}
+                </NavDropdown.Item>
               </NavDropdown>
               <Nav.Item>
                 <Nav.Link
