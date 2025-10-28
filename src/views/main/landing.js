@@ -26,10 +26,12 @@ import Subscription from "../home/subcription";
 import ContactUs from "../home/contactUs";
 import BookCover from "../../images/book-cover-study-education-book store .png";
 import Publisher from "../home/publisher";
+import PublicationEthics from "../home/publicationEthics";
 
 // import classes from "./landing.module.css";
 import Logo from "../../images/bml-color-logo.png";
 import Indexing from "./indexing";
+
 
 export default function Landing(props) {
   const currentRoute = window.location.pathname;
@@ -257,6 +259,16 @@ export default function Landing(props) {
                   Indexing
                 </Nav.Link>
               </Nav.Item>
+            
+            <Nav.Item>
+                <Nav.Link
+                  eventKey="/publication-ethics"
+                  href="/publication-ethics"
+                  className="nav-link-tab"
+                >
+                  Publication Ethics
+                </Nav.Link>
+              </Nav.Item>
             </Nav>
           </div>
         </div>
@@ -365,6 +377,11 @@ export default function Landing(props) {
             {currentRoute == "/indexing" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <Indexing />
+              </div>
+            )}
+            {currentRoute == "/publication-ethics" && (
+              <div className="custom-top-margin custom-bottom-margin">
+                <PublicationEthics />
               </div>
             )}
           </div>
