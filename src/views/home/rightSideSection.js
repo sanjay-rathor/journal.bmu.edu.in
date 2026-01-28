@@ -38,7 +38,7 @@ export default function RightSideSection() {
                   > <strong>Call for Papers</strong>
                      <br/>
                   
-                  Volume 6, Issue 1 ( April 2026) <br/>
+                  Volume 6, Issue 2 ( October 2026) <br/>
                   <strong>Theme -</strong> Reframing Organizational Purpose: Stakeholder Cognition, Executive Sensemaking, and the Future of Business</a></p>
 
                 </div>
