@@ -2,8 +2,8 @@ import axios from "axios";
 import { authenticationService } from "./";
 import article1 from "../journals/naturalJournal.json";
 import practitionerPrespective from "../journals/practitionerPrespective.json";
-import bookReviews from "../journals/issue-10/bookReviewIssue10.json";
-import lastestContent from "../journals/issue-10/issueList10.json";
+import bookReviews from "../journals/issue-11/bookReviewIssue11.json";
+import lastestContent from "../journals/issue-11/issueList11.json";
 
 export const restService = {
   getLatestArticles: () => {

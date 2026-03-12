@@ -110,7 +110,7 @@ export default function LandingJournal() {
                       href="/"
                       className="nav-link-section"
                     >
-                      Latest content Vol-5 Issue-2
+                      Latest content Vol-6 Issue-1
                     </Nav.Link>
                   </Nav.Item>
                 </Nav>
@@ -130,7 +130,7 @@ export default function LandingJournal() {
                             <Card.Title>
                               <a
                                 href={
-                                  "/browse-journal-vol-5-issue-2#" +
+                                  "/browse-journal-vol-6-issue-1#" +
                                   article.title
                                 }
                               >
