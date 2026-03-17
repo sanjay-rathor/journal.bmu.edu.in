@@ -70,7 +70,7 @@ export default function BrowseJournal() {
                                                             {article.issue}</span>
                                                             <br></br>
                                                             {article.keywords != null && <span className="abstract-title">DOI -: </span>}
-                                                            <a href='{article.doiurl}' target='_blank'>{article.doiurl}</a>
+                                                            <a href={article.doiurl} target="_blank">{article.doiurl}</a>
                                                             <br></br>
                                                             
                                                             {article.doidate}

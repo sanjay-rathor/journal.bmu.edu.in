@@ -117,7 +117,7 @@ export default function BrowseJournal() {
                               {article.keywords != null && (
                                 <span className="abstract-title">DOI -: </span>
                               )}
-                              <a href="{article.doiurl}" target="_blank">
+                              <a href={article.doiurl} target="_blank">
                                 {article.doiurl}
                               </a>
                               <br></br>
