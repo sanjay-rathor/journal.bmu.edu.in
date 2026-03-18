@@ -217,7 +217,7 @@ export default function Landing(props) {
                 { <NavDropdown.Item className="nav-link-tab" eventKey="/browse-journal-vol-6-issue-1"
                   href="/browse-journal-vol-6-issue-1"
                 >
-                  Vol. 6 Issue 1 (march 2026){" "}
+                  Vol. 6 Issue 1 (April 2026){" "}
                 </NavDropdown.Item> }
               </NavDropdown>
 
