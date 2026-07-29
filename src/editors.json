@@ -2,6 +2,62 @@
 
 
   {
+    "name": "Arup Varma",
+    "designation": "Professor and Frank W. Considine Chair in Applied Ethics",
+    "description": "Arup Varma, Loyola University Chicago , USA",
+    "email": "Avarma@luc.edu"
+    
+  },
+  {
+    "name": "Eddy Ng",
+    "designation": "Smith Professor of Equity and Inclusion in Business ",
+    "description": "Eddy NG, Queen’s University, Canada ",
+    "email": "eddy.ng@queensu.ca"
+    
+  },
+  {
+    "name": "Kevin Rockmann",
+    "designation": "Professor",
+    "description": "Kevin Rockmann George Mason University, USA ",
+    "email": "krockma2@gmu.edu"
+    
+  },
+  {
+    "name": "Diana Bilimoria",
+    "designation": "KeyBank Professor",
+    "description": "Diana Bilimoria Case Western Reserve University, USA ",
+    "email": "dxb12@case.edu"
+    
+  },
+  {
+    "name": "Chris Brewster",
+    "designation": "Professor of IHRM",
+    "description": "Chris Brewster Henley University, UK ",
+    "email": "c.j.brewster@henley.ac.uk"
+    
+  },
+  {
+    "name": "Dominic Thomas-James",
+    "designation": "Tutor (and barrister)",
+    "description": "Dominic Thomas-James  University of Cambridge, UK ",
+    "email": "dominicthomasjames@cantab.net"
+    
+  },
+  {
+    "name": "Sujana Adapa",
+    "designation": "Executive Dean & Associate Professor ",
+    "description": "Sujana Adapa University of New England, Australia ",
+    "email": "sadapa2@une.edu.au"
+    
+  },
+  {
+    "name": "Johnathan Pinto",
+    "designation": "Associate Professor",
+    "description": "Johnathan Pinto Imperial College Business School, UK ",
+    "email": "j.pinto@imperial.ac.uk"
+    
+  },
+  {
     "name": "Shyam Menon",
     "designation": "Vice Chancellor",
     "description": "Shyam Menon, Vice Chancellor, BML Munjal University, India",
@@ -15,12 +71,12 @@
     "email": "jaskiran.arora@bmu.edu.in"
   },
 
-  {
-    "name": "Pritam Baruah",
-    "designation": "Dean-School of Law",
-    "description": "Pritam Baruah, Dean-School of Law, BML Munjal University, India",
-    "email": "pritam.baruah@bmu.edu.in"
-  },
+  // {
+  //   "name": "Pritam Baruah",
+  //   "designation": "Dean-School of Law",
+  //   "description": "Pritam Baruah, Dean-School of Law, BML Munjal University, India",
+  //   "email": "pritam.baruah@bmu.edu.in"
+  // },
   {
     "name": "Maneek Kumar",
     "designation": "Dean-School of Engineering and Technology",
@@ -33,12 +89,7 @@
     "description": "Dean-SOLS, BML Munjal University",
     "email": "arindam.banerjee@bmu.edu.in"
   },
-  {
-    "name": "Abhimanyu Singh Rana",
-    "designation": "",
-    "description": "Director-Research and Development, BML Munjal University",
-    "email": "abhimanyu.rana@bmu.edu.in"
-  },
+
   {
     "name": "Charlotte Karam",
     "designation": "Ian Telfer Professorship in Inclusive Human Resource Systems,Associate Professor",
@@ -75,12 +126,7 @@
     "description": "Mary C Gentile, Creator/Director, Giving Voice To Values Richard M. Waitzer Bicentennial Professor of Ethics, University of Virginia-Darden School of Business, USA",
     "email": "GentileM@darden.virginia.edu"
   },
-  {
-    "name": "Mathew J Manimala",
-    "designation": "Former Director",
-    "description": "Mathew J Manimala, Former Director, XIME, Bangalore, India",
-    "email": "manimala.mathew@gmail.com"
-  },
+
   {
     "name": "Michael Pirson",
     "designation": "Professor, Fordham university and Research Fellow at Harvard University",
