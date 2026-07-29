@@ -40,7 +40,9 @@ export default function EditorialBoard() {
                     return (
                       <div className=" list-group-item flex-column align-items-start ">
                         <div className="d-flex w-100 justify-content-between name-box">
-                          <h5 className="mb-1">{item.name}</h5>
+                          <h5 className="mb-1">
+                             {String.fromCharCode(65 + index)}. {item.name}
+                            </h5>
                         </div>
                         <p className="mb-1 editor-about">{item.title}</p>
                         <p className="mb-1 editor-about">{item.email}</p>
