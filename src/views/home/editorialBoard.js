@@ -1,12 +1,13 @@
 import React from "react";
-import { authenticationService } from "../../services";
+// import { authenticationService } from "../../services";
 import { createBrowserHistory } from "history";
 import SearchBar from "../main/searchbar";
 import Nav from "react-bootstrap/Nav";
 import IMAGE_1 from "../../images/D3_jbe-100.jpg";
 import RightSideSection from "./rightSideSection";
 import InternaionalEditors from "../../editors.json";
-import EditorialBoardList from "../../journals/editorialBoard.json";
+import editorialBoardData from "../../journals/editorialBoard.json";
+
 import {
   Card,
   CardImg,
@@ -16,47 +17,74 @@ import {
   CardSubtitle,
   Badge,
 } from "react-bootstrap";
+
 const browserHistory = createBrowserHistory();
+
+// Sort editorial board alphabetically by name
+const EditorialBoardList = [...editorialBoardData].sort((a, b) =>
+  a.name.localeCompare(b.name)
+);
 
 export default function EditorialBoard() {
   console.log("EditorialBoardList:", EditorialBoardList);
+
   return (
     <div className="row justify-content-md-center">
       <div className="col-md-12">
         <div className="row content-space-around">
-          <div className="col-md-9 col-sm-12 body-container ">
+          <div className="col-md-9 col-sm-12 body-container">
             <div className="row">
               <div className="col-md-12 content-text">
                 <h5>Editorial board</h5>
               </div>
             </div>
-            <div className="row ">
-              <div className="col-md-12 ">
+
+            <div className="row">
+              <div className="col-md-12">
                 <div className="divider"></div>
               </div>
+
               <div className="col-md-12">
                 <div className="list-group">
-                  {EditorialBoardList.map(function (item, index) {
-                    return (
-                      <div className=" list-group-item flex-column align-items-start ">
-                        <div className="d-flex w-100 justify-content-between name-box">
-                          <h5 className="mb-1">
-                            {item.name}</h5>
-                        </div>
-                        <p className="mb-1 editor-about">{item.title}</p>
-                        <p className="mb-1 editor-about">{item.email}</p>
+                  {EditorialBoardList.map((item, index) => (
+                    <div
+                      key={index}
+                      className="list-group-item flex-column align-items-start"
+                    >
+                      <div className="d-flex w-100 justify-content-between name-box">
+                        <h5 className="mb-1">{item.name}</h5>
+                      </div>
+
+                      <p className="mb-1 editor-about">
+                        {item.title || item.description}
+                      </p>
+
+                      {item.designation && (
                         <p className="mb-1 editor-about">
-                          <a href="journal-files/Editorial.pdf" target="_blank">
+                          {item.designation}
+                        </p>
+                      )}
+
+                      <p className="mb-1 editor-about">{item.email}</p>
+
+                      {item.link && (
+                        <p className="mb-1 editor-about">
+                          <a
+                            href="journal-files/Editorial.pdf"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
                             {item.link}
                           </a>
                         </p>
-                      </div>
-                    );
-                  })}
+                      )}
+                    </div>
+                  ))}
                 </div>
               </div>
             </div>
           </div>
+
           <div className="col-md-3 col-sm-12 d-sm-block">
             <RightSideSection />
           </div>
