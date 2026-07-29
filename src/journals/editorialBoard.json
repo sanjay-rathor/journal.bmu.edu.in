@@ -1,5 +1,20 @@
 [
   {
+    "name": "Associate Professor - Bice Della Piana",
+    "title": "Associate Professor, University of Salerno, Italy",
+    "email": "bdellapiana@unisa.it",
+  },
+  {
+    "name": "Research professor - Dianna L Stone",
+    "title": "Research professor, The University of New Mexico, USA",
+    "email": "diannastone2015@gmail.com",
+  },
+  {
+    "name": "Associate Dean for Online Learning - Leonardo Caporarello",
+    "title": "Associate Dean for Online Learning, SDA Bocconi School of Management, Italy",
+    "email": "diannastone2015@gmail.com",
+  },
+  {
     "name": "Editor-in-chief - Payal Kumar",
     "title": "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India ",
     "email": "payal.kumar@ish.edu.in",
@@ -7,12 +22,12 @@
   },
 
   {
-    "name": "Associate Editor Dr. Bhatt's",
+    "name": "Associate Editor Sudhanshu Bhatt",
     "title": "Associate Editor, JBES; Director University Relations | Sanjivani University, India",
     "email": "directorrelations@sanjivani.edu.in"
   },
   {
-    "name": "Technical Editor Dr. Jatinder Kumar",
+    "name": "Technical Editor Jatinder Kumar",
     "title": "Technical Editor, JBES;",
     "email": "jatinder.kumar@bmu.edu.in"
   },
@@ -24,13 +39,13 @@
   },
   {
     "name": "Associate Editors - Patrick Adriel H. Aure",
-    "title": "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Professor (DMO/MOD) | De La Salle University, Philippines",
+    "title": "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Editor (DMO/MOD) | De La Salle University, Philippines",
     "email": "kit.patrick@gmail.com"
   },
-  {
-    "name": "Book Review Editor - Sreejit Datta",
-    "title": "Assistant Professor, School of Creative Practices & Entrepreneurship, Anant National University, Ahmedabad, Gujarat, India"
-  },
+  // {
+  //   "name": "Book Review Editor - Sreejit Datta",
+  //   "title": "Assistant Professor, School of Creative Practices & Entrepreneurship, Anant National University, Ahmedabad, Gujarat, India"
+  // },
   {
     "name": "Book Review Editor - Elva Anne Resendez",
     "title": "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
@@ -42,42 +57,42 @@
     "title": "Associate Professor, BML Munjal University, India",
     "email": "ruchi.garg@bmu.edu.in"
   },
-  {
-    "name": "Chhayabrita Maji",
-    "title": "Associate Professor, BML Munjal University, India",
-    "email": "chhayabrita.maji@bmu.edu.in"
-  },
-  {
-    "name": "Vikas Kathuria",
-    "title": "Associate Professor, BML Munjal University, India",
-    "email": "vikas.kathuria@bmu.edu.in"
-  },
-  {
-    "name": "Patch Aure",
-    "title": "Special Issues Editor-JBES, Vice-Chair and Associate Professor (DMO/MOD), De La Salle University, Philippines",
-    "email": "patrick.aure@dlsu.edu.ph"
-  },
+  // {
+  //   "name": "Chhayabrita Maji",
+  //   "title": "Associate Professor, BML Munjal University, India",
+  //   "email": "chhayabrita.maji@bmu.edu.in"
+  // },
+  // {
+  //   "name": "Vikas Kathuria",
+  //   "title": "Associate Professor, BML Munjal University, India",
+  //   "email": "vikas.kathuria@bmu.edu.in"
+  // },
+  // {
+  //   "name": "Patch Aure",
+  //   "title": "Special Issues Editor-JBES, Vice-Chair and Associate Professor (DMO/MOD), De La Salle University, Philippines",
+  //   "email": "patrick.aure@dlsu.edu.ph"
+  // },
 
-  {
-    "name": "Aditya Agrawal",
-    "title": "Assistant Professor (HRM), Flame University, India",
-    "email": "agarwal-aditya.g.agrawal@flame.edu.in"
-  },
+  // {
+  //   "name": "Aditya Agrawal",
+  //   "title": "Assistant Professor (HRM), Flame University, India",
+  //   "email": "agarwal-aditya.g.agrawal@flame.edu.in"
+  // },
   {
     "name": "Nigam Nuggehalli",
     "title": "Registrar, National Law School of India University, India",
     "email": "nigam@nls.ac.in"
   },
-  {
-    "name": "Uma Gulati",
-    "title": "Professor( Marketing), Institute of Technology & Science, Ghaziabad, India",
-    "email": "umagulati@its.edu.in"
-  },
-  {
-    "name": "Saloni Sinha",
-    "title": "Assistant Professor, Business Communication and Theatre, BIMTECH, India",
-    "email": "saloni.sinha@bimtech.ac.in"
-  },
+  // {
+  //   "name": "Uma Gulati",
+  //   "title": "Professor( Marketing), Institute of Technology & Science, Ghaziabad, India",
+  //   "email": "umagulati@its.edu.in"
+  // },
+  // {
+  //   "name": "Saloni Sinha",
+  //   "title": "Assistant Professor, Business Communication and Theatre, BIMTECH, India",
+  //   "email": "saloni.sinha@bimtech.ac.in"
+  // },
   {
     "name": "Indrani Roy Chowdhury",
     "title": "Professor, Centre for the Study of Regional Development, SSS, JNU",
