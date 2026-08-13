@@ -1,5 +1,5 @@
 import React from "react";
-// import { authenticationService } from "../../services";
+import { authenticationService } from "../../services";
 import { createBrowserHistory } from "history";
 import SearchBar from "../main/searchbar";
 import Nav from "react-bootstrap/Nav";
@@ -21,9 +21,24 @@ import {
 const browserHistory = createBrowserHistory();
 
 // Sort editorial board alphabetically by name
-const EditorialBoardList = [...editorialBoardData].sort((a, b) =>
-  a.name.localeCompare(b.name)
-);
+const EditorialBoardList = [...editorialBoardData].sort((a, b) => {
+  // First 4 items: custom order
+  if (a.order && b.order) {
+    return a.order - b.order;
+  }
+
+  // Ordered items always come first
+  if (a.order) {
+    return -1;
+  }
+
+  if (b.order) {
+    return 1;
+  }
+
+  // Remaining items: alphabetical order
+  return a.name.localeCompare(b.name);
+});
 
 export default function EditorialBoard() {
   console.log("EditorialBoardList:", EditorialBoardList);

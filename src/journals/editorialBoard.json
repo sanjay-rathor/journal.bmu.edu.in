@@ -1,81 +1,94 @@
 [
   {
-    "name": "Associate Professor - Bice Della Piana",
+    "order": 1,
+    "name": "Editor-in-chief - Payal Kumar",
+    "title": "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India",
+    "email": "payal.kumar@ish.edu.in",
+    "link": "Message from Editoral-in-chief"
+  },
+    {
+    "order": 2,
+    "name": "Associate Editors - Sangita Dutta Gupta",
+    "title": "Professor, Economics | Assistant Dean, Research | BML Munjal University, India",
+    "email": "sangita.dgupta@bmu.edu.in"
+  },
+  {
+    "order": 3,
+    "name": "Associate Editor Sudhanshu Bhatt's",
+    "title": "Associate Editor, JBES; Director University Relations | Sanjivani University, India",
+    "email": "directorrelations@sanjivani.edu.in"
+  },
+  {
+    "order": 4,
+    "name": "Associate Editors - Patrick Adriel H. Aure",
+    "title": "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Editor (DMO/MOD) | De La Salle University, Philippines",
+    "email": "kit.patrick@gmail.com"
+  },
+
+  {
+    
+    "name": "Bice Della Piana",
     "title": "Associate Professor, University of Salerno, Italy",
     "email": "bdellapiana@unisa.it"
   },
-
-    {
+  {
+    
     "name": "Abhimanyu Singh Rana",
     "designation": "",
     "description": "Director-Research and Development, BML Munjal University",
     "email": "abhimanyu.rana@bmu.edu.in"
   },
-
-
-    {
+  {
+    
     "name": "Mathew J Manimala",
     "designation": "Former Director",
     "description": "Mathew J Manimala, Former Director, XIME, Bangalore, India",
     "email": "manimala.mathew@gmail.com"
   },
   {
-    "name": "Research professor - Dianna L Stone",
+    
+    "name": "Dianna L Stone",
     "title": "Research professor, The University of New Mexico, USA",
     "email": "diannastone2015@gmail.com"
   },
   {
-    "name": "Associate Dean for Online Learning - Leonardo Caporarello",
+    
+    "name": "Leonardo Caporarello",
     "title": "Associate Dean for Online Learning, SDA Bocconi School of Management, Italy",
     "email": "diannastone2015@gmail.com"
   },
   {
-    "name": "Editor-in-chief - Payal Kumar",
-    "title": "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India",
-    "email": "payal.kumar@ish.edu.in",
-    "link": "Message from Editoral-in-chief"
-  },
-  {
-    "name": "Associate Editor Sudhanshu Bhatt's",
-    "title": "Associate Editor, JBES; Director University Relations | Sanjivani University, India",
-    "email": "directorrelations@sanjivani.edu.in"
-  },
-  {
+    
     "name": "Technical Editor Jatinder Kumar",
     "title": "Technical Editor, JBES;",
     "email": "jatinder.kumar@bmu.edu.in"
   },
   {
-    "name": "Associate Editors - Sangita Dutta Gupta",
-    "title": "Professor, Economics | Assistant Dean, Research | BML Munjal University, India",
-    "email": "sangita.dgupta@bmu.edu.in"
-  },
-  {
-    "name": "Associate Editors - Patrick Adriel H. Aure",
-    "title": "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Editor (DMO/MOD) | De La Salle University, Philippines",
-    "email": "kit.patrick@gmail.com"
-  },
-  {
+    
     "name": "Book Review Editor - Elva Anne Resendez",
     "title": "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
     "email": "elva.resendez@pfw.edu"
   },
   {
+    
     "name": "Ruchi Garg",
     "title": "Associate Professor, BML Munjal University, India",
     "email": "ruchi.garg@bmu.edu.in"
   },
   {
+    
     "name": "Nigam Nuggehalli",
     "title": "Registrar, National Law School of India University, India",
     "email": "nigam@nls.ac.in"
   },
   {
+    
     "name": "Indrani Roy Chowdhury",
     "title": "Professor, Centre for the Study of Regional Development, SSS, JNU",
     "email": "iroychowdhury@mail.jnu.ac.in"
   },
   {
+    
     "name": "Madhumita Guha Majumder",
     "title": "Professor & Program Head - Research & Business Analytics, Prin. L.N. Welingkar Institute of Management Development and Research, Bangalore",
     "email": "madhumita.majumder@welingkar.org"
