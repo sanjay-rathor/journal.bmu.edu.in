@@ -43,26 +43,8 @@ export default function SubmissionGuidelines() {
             <div className="row">
               <div className="col-md-12">
                 <div className="subbody-content">
-                  <ul style={{ paddingLeft: "16px" }}>
-                    <li>
-                      Conflict of interest disclosures for all submissions. 
-                    </li>
-                    <li>Each
-                      paper submission must contain a clear statement of ethics
-                      committee approval. Here are two examples:</li>
-                  </ul>
-                  <p>  i. This study
-                      received ethical approval from the [Name of Institution]
-                      Ethics Committee (Approval No. XXX, dated XX Month XXXX).
-                      All research procedures were conducted in accordance with
-                      the approved ethical guidelines. 
-                      <br/>ii.
-                      Qualitative/interview-based study Ethics Approval: This
-                      study was approved by the [Name of Institution] Ethics
-                      Committee (Approval No. XXX). Participants were informed
-                      about the purpose and procedures of the study, their
-                      participation was voluntary, and informed consent was
-                      obtained prior to the interviews.</p>
+               
+                  <p>Authors need to make explicit discussion of study limitations in order to uphold scientific rigor.</p>
                   <p>
                     Authors should kindly note that submission of an article to
                     Journal of Business, Ethics and Society implies that the

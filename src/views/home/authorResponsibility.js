@@ -28,8 +28,7 @@ export default function AuthorResponsibility() {
                                 <div className="subbody-content">
                                 <ul class="list-group">
                                   <li class="list-group-item"><span style={{fontWeight:700, paddingRight: 2}}>•</span> Conflict of interest disclosures for all submissions. </li>
-                                  <li class="list-group-item"><span style={{fontWeight:700, paddingRight: 2}}>•</span> Each paper submission must contain a clear statement of ethics committee approval. Here are two examples: </li>
-                                  <li class="list-group-item"><span style={{fontWeight:700, paddingRight: 2}}>•</span>  i. This study received ethical approval from the [Name of Institution] Ethics Committee (Approval No. XXX, dated XX Month XXXX). All research procedures were conducted in accordance with the approved ethical guidelines.
+                                  <li class="list-group-item"><span style={{fontWeight:700, paddingRight: 2}}>•</span>Each paper submission must contain a clear statement of ethics committee approval. Here are two examples: <b/>  i. This study received ethical approval from the [Name of Institution] Ethics Committee (Approval No. XXX, dated XX Month XXXX). All research procedures were conducted in accordance with the approved ethical guidelines.
 <br/>ii. Qualitative/interview-based study
 Ethics Approval: This study was approved by the [Name of Institution] Ethics Committee (Approval No. XXX). Participants were informed about the purpose and procedures of the study, their participation was voluntary, and informed consent was obtained prior to the interviews.   </li>
                                   <li class="list-group-item"><span style={{fontWeight:700, paddingRight: 2}}>•</span> Managing all communication with the journal editor on behalf of the co-authors and maintaining transparency during the publishing process. </li>
