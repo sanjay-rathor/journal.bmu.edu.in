@@ -20,6 +20,17 @@ const browserHistory = createBrowserHistory();
 
 export default function SubmissionGuidelines() {
   return (
+   <>
+       <style>
+         {`
+    @media (max-width: 576px) {
+      .auth-wrapper a {
+        word-break: break-all;
+        overflow-wrap: anywhere;
+      }
+    }
+  `}
+      </style>
     <div className="row justify-content-md-center">
       <div className="col-md-12">
         <div className="row content-space-around">
@@ -32,6 +43,26 @@ export default function SubmissionGuidelines() {
             <div className="row">
               <div className="col-md-12">
                 <div className="subbody-content">
+                  <ul style={{ paddingLeft: "16px" }}>
+                    <li>
+                      Conflict of interest disclosures for all submissions. 
+                    </li>
+                    <li>Each
+                      paper submission must contain a clear statement of ethics
+                      committee approval. Here are two examples:</li>
+                  </ul>
+                  <p>  i. This study
+                      received ethical approval from the [Name of Institution]
+                      Ethics Committee (Approval No. XXX, dated XX Month XXXX).
+                      All research procedures were conducted in accordance with
+                      the approved ethical guidelines. 
+                      <br/>ii.
+                      Qualitative/interview-based study Ethics Approval: This
+                      study was approved by the [Name of Institution] Ethics
+                      Committee (Approval No. XXX). Participants were informed
+                      about the purpose and procedures of the study, their
+                      participation was voluntary, and informed consent was
+                      obtained prior to the interviews.</p>
                   <p>
                     Authors should kindly note that submission of an article to
                     Journal of Business, Ethics and Society implies that the
@@ -50,20 +81,20 @@ export default function SubmissionGuidelines() {
                     reviewed.
                   </p>
                   <p>
-                  Manuscripts and all editorial correspondence should be addressed to
+                    Manuscripts and all editorial correspondence should be
+                    addressed to
                     <span
                       style={{
                         paddingLeft: 6,
                       }}
                     >
-                      
                       <a
                         style={{
                           fontWeight: 600,
                         }}
                         href="mailto:jbes.submission@bmu.edu.in"
                       >
-                         jbes.submission@bmu.edu.in
+                        jbes.submission@bmu.edu.in
                       </a>
                       .
                     </span>
@@ -112,16 +143,22 @@ export default function SubmissionGuidelines() {
               <div className="col-md-12">
                 <div className="subbody-content">
                   <p>
-                  The Journal of Business, Ethics and Society follows a rigorous double-blind peer-review
-process to uphold high academic standards and ensure the publication of original and
-impactful research. All submitted manuscripts undergo an initial editorial screening to assess
-relevance, formatting, and quality. Suitable submissions are then sent anonymously to at
-least two expert reviewers in the field. The identities of both authors and reviewers are kept
-confidential to ensure impartiality. Reviewers evaluate the manuscript based on clarity,
-methodology, originality, and contribution to the discipline. Based on their feedback, the
-editorial team makes an informed decision—acceptance, revision, or rejection. This process
-ensures that all published articles maintain academic integrity and contribute meaningfully to
-scholarly discourse </p>
+                    The Journal of Business, Ethics and Society follows a
+                    rigorous double-blind peer-review process to uphold high
+                    academic standards and ensure the publication of original
+                    and impactful research. All submitted manuscripts undergo an
+                    initial editorial screening to assess relevance, formatting,
+                    and quality. Suitable submissions are then sent anonymously
+                    to at least two expert reviewers in the field. The
+                    identities of both authors and reviewers are kept
+                    confidential to ensure impartiality. Reviewers evaluate the
+                    manuscript based on clarity, methodology, originality, and
+                    contribution to the discipline. Based on their feedback, the
+                    editorial team makes an informed decision—acceptance,
+                    revision, or rejection. This process ensures that all
+                    published articles maintain academic integrity and
+                    contribute meaningfully to scholarly discourse{" "}
+                  </p>
                 </div>
               </div>
             </div>
@@ -626,7 +663,8 @@ scholarly discourse </p>
                       <p>
                         Employee Benefit Research Institute. (1992, February).
                         Sources of health insurance and characteristics of the
-                        uninsured (Issue Brief No. 123). Washington, DC: Author.{" "}
+                        uninsured (Issue Brief No. 123). Washington, DC:
+                        Author.{" "}
                       </p>
                     </span>
                   </p>
@@ -701,5 +739,7 @@ scholarly discourse </p>
         </div>
       </div>
     </div>
+   
+   </>
   );
 }

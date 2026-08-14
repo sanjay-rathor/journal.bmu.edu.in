@@ -14,7 +14,7 @@
   },
   {
     "order": 3,
-    "name": "Associate Editor Sudhanshu Bhatt's",
+    "name": "Associate Editor Sudhanshu Bhatt",
     "title": "Associate Editor, JBES; Director University Relations | Sanjivani University, India",
     "email": "directorrelations@sanjivani.edu.in"
   },
@@ -23,6 +23,20 @@
     "name": "Associate Editors - Patrick Adriel H. Aure",
     "title": "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Editor (DMO/MOD) | De La Salle University, Philippines",
     "email": "kit.patrick@gmail.com"
+  },
+
+   {
+    "order": 5,
+    "name": "Book Review Editor - Elva Anne Resendez",
+    "title": "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
+    "email": "elva.resendez@pfw.edu"
+  },
+
+   {
+    "order": 6,
+    "name": "Technical Editor Jatinder Kumar",
+    "title": "Technical Editor, JBES;",
+    "email": "jatinder.kumar@bmu.edu.in"
   },
 
   {
@@ -57,18 +71,8 @@
     "title": "Associate Dean for Online Learning, SDA Bocconi School of Management, Italy",
     "email": "diannastone2015@gmail.com"
   },
-  {
-    
-    "name": "Technical Editor Jatinder Kumar",
-    "title": "Technical Editor, JBES;",
-    "email": "jatinder.kumar@bmu.edu.in"
-  },
-  {
-    
-    "name": "Book Review Editor - Elva Anne Resendez",
-    "title": "Book Editor-JBES, Clinical Assistant Professor in Management and Director of Accreditation, Purdue University Fort Wayne, USA",
-    "email": "elva.resendez@pfw.edu"
-  },
+ 
+ 
   {
     
     "name": "Ruchi Garg",
