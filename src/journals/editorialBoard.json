@@ -3,24 +3,24 @@
     "order": 1,
     "name": "Editor-in-chief - Payal Kumar",
     "title": "Editor-in-chief, JBES; Principal Academic Advsior, Indian School of Hospitality, India",
-    "email": "payal.kumar@ish.edu.in",
-    "link": "Message from Editoral-in-chief"
+    "email": "payal.kumar@ish.edu.in"
+    // "link": "Message from Editoral-in-chief"
   },
     {
     "order": 2,
-    "name": "Associate Editors - Sangita Dutta Gupta",
+    "name": "Associate Editor - Sangita Dutta Gupta",
     "title": "Professor, Economics | Assistant Dean, Research | BML Munjal University, India",
     "email": "sangita.dgupta@bmu.edu.in"
   },
   {
     "order": 3,
-    "name": "Associate Editors Sudhanshu Bhatt",
-    "title": "Associate Editors, JBES; Director University Relations | Sanjivani University, India",
+    "name": "Associate Editor Sudhanshu Bhatt",
+    "title": "Associate Editor, JBES; Director University Relations | Sanjivani University, India",
     "email": "directorrelations@sanjivani.edu.in"
   },
   {
     "order": 4,
-    "name": "Associate Editors - Patrick Adriel H. Aure",
+    "name": "Associate Editor - Patrick Adriel H. Aure",
     "title": "Director of PHINMA-DLSU Center for Business and Society | Assistant Dean for Quality Assurance of RVRCOB | Associate Editor (DMO/MOD) | De La Salle University, Philippines",
     "email": "kit.patrick@gmail.com"
   },
