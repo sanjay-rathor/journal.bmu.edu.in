@@ -19,6 +19,7 @@ import BrowseJournalVol4Issue2 from "../home/browse_issue_journal8";
 import BrowseJournalVol5Issue1 from "../home/browse_issue_journal9";
 import BrowseJournalVol5Issue2 from "../home/browse_issue_journal10";
 import BrowseJournalVol5Issue11 from "../home/browse_issue_journal11";
+import BrowseJournalVol5Issue12 from "../home/browse_issue_journal12";
 
 import SubmissionGuidelines from "../home/submissionGuidelines";
 import AuthorResponsibility from "../home/authorResponsibility";
@@ -214,16 +215,25 @@ export default function Landing(props) {
                 >
                   Vol. 5 Issue 2 (October 2025){" "}
                 </NavDropdown.Item>
-                { <NavDropdown.Item className="nav-link-tab" eventKey="/browse-journal-vol-6-issue-1"
+                <NavDropdown.Item
+                  className="nav-link-tab"
+                  eventKey="/browse-journal-vol-6-issue-1"
                   href="/browse-journal-vol-6-issue-1"
                 >
                   Vol. 6 Issue 1 (April 2026){" "}
-                </NavDropdown.Item> }
+                </NavDropdown.Item>
+                <NavDropdown.Item
+                  className="nav-link-tab"
+                  eventKey="/browse-journal-vol-6-issue-2"
+                  href="/browse-journal-vol-6-issue-2"
+                >
+                  Vol. 6 Issue 2 (October 2026){" "}
+                </NavDropdown.Item>
               </NavDropdown>
 
-              
 
-              
+
+
               <Nav.Item>
                 <Nav.Link
                   eventKey="/submission-guidelines"
@@ -269,7 +279,7 @@ export default function Landing(props) {
                   Indexing
                 </Nav.Link>
               </Nav.Item>
-            
+
             <Nav.Item>
                 <Nav.Link
                   eventKey="/publication-ethics"
@@ -372,6 +382,11 @@ export default function Landing(props) {
             {currentRoute == "/browse-journal-vol-6-issue-1" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <BrowseJournalVol5Issue11 />
+              </div>
+            )}
+            {currentRoute == "/browse-journal-vol-6-issue-2" && (
+              <div className="custom-top-margin custom-bottom-margin">
+                <BrowseJournalVol5Issue12 />
               </div>
             )}
             {currentRoute == "/submission-guidelines" && (

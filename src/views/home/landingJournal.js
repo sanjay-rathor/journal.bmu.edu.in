@@ -110,7 +110,7 @@ export default function LandingJournal() {
                       href="/"
                       className="nav-link-section"
                     >
-                      Latest content Vol-6 Issue-1
+                      Latest content Vol-6 Issue-2
                     </Nav.Link>
                   </Nav.Item>
                 </Nav>
