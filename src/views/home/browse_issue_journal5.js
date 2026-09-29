@@ -72,68 +72,52 @@ export default function BrowseJournal() {
                                 a href = { article.link }
                                 target = "_blank" > { " " } <
                                 span className = "download-btn" > { " " }
-                                PDF { " " } <
-                                img style = {
-                                    {
-                                        height: 24,
-                                    }
-                                }
-                                src = { PDFICON } >
-                                < /img> <
+                                PDF {" "}
+                                <img style={{ height: 24 }} src={PDFICON} /> <
                                 /span>{" "} <
                                 /a> <
                                 /div> <
                                 /div> <
                                 /Card.Title> <
-                                Card.Text > { article.author.name } <
-                                br > < /br> {
+                                Card.Text > { article.author.name } <br /> {
                                     article.author.info != null &&
                                         article.author.info.map((info) => {
                                             return ( <
-                                                div > { info } <
-                                                br > < /br> <
+                                                div > { info } <br /> <
                                                 /div>
                                             );
                                         })
-                                } <
-                                br > < /br> {
+                                } <br /> {
                                     article.author2 != null && ( <
-                                        span > { article.author2.name } <
-                                        br > < /br> {
+                                        span > { article.author2.name } <br /> {
                                             article.author2.info != null &&
                                                 article.author2.info.map((info) => {
                                                     return ( <
-                                                        div > { info } <
-                                                        br > < /br> <
+                                                        div > { info } <br /> <
                                                         /div>
                                                     );
                                                 })
-                                        } <
-                                        br > < /br> <
+                                        } <br /> <
                                         /span>
                                     )
                                 }
 
                                 {
                                     article.author3 != null && ( <
-                                        span > { article.author3.name } <
-                                        br > < /br> {
+                                        span > { article.author3.name } <br /> {
                                             article.author3.info != null &&
                                                 article.author3.info.map((info) => {
                                                     return ( <
-                                                        div > { info } <
-                                                        br > < /br> <
+                                                        div > { info } <br /> <
                                                         /div>
                                                     );
                                                 })
-                                        } <
-                                        br > < /br> <
+                                        } <br /> <
                                         /span>
                                     )
                                 }
 
-                                <
-                                br > < /br> {
+                                <br /> {
                                     article.keywords != null && ( <
                                         span className = "abstract-title" > Vol -: < /span>
                                     )
@@ -144,17 +128,14 @@ export default function BrowseJournal() {
                                         /span>
                                     )
                                 } { article.issue } <
-                                /span> <
-                                br > < /br> {
+                                /span> <br /> {
                                     article.keywords != null && ( <
                                         span className = "abstract-title" > DOI -: < /span>
                                     )
                                 } <
                                 a href = { article.doiurl }
                                 target = "_blank" > { article.doiurl } <
-                                /a> <
-                                br > < /br> { article.doidate } <
-                                br > < /br>
+                                /a> <br /> { article.doidate } <br />
 
                                 {
                                     article.abstract != null && ( <
@@ -163,10 +144,7 @@ export default function BrowseJournal() {
                                 } {
                                     article.abstract != null && ( <
                                         div >
-                                        <
-                                        br > < /br> { article.abstract } <
-                                        br > < /br> <
-                                        br > < /br> <
+                                        <br /> { article.abstract } <br /> <br /> <
                                         /div>
                                     )
                                 } <

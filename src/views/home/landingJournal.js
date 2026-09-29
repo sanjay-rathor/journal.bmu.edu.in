@@ -54,6 +54,13 @@ export default function LandingJournal() {
                           &nbsp;&nbsp;Prof. Payal Kumar
                         </span>
                       </span>
+                      <br></br>
+                      <span className="content-label">
+
+                        <span className="content-label-text">
+                          0000-0002-3222-6288
+                        </span>
+                      </span>
                       {/* <br></br> */}
                       {/* <span className="content-label">
                         Vol 5. Issue 2 - October 2025
@@ -130,7 +137,7 @@ export default function LandingJournal() {
                             <Card.Title>
                               <a
                                 href={
-                                  "/browse-journal-vol-6-issue-1#" +
+                                  "/browse-journal-vol-6-issue-2#" +
                                   article.title
                                 }
                               >

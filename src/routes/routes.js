@@ -24,7 +24,7 @@ const Routes = () => {
    return (
       <Switch>
         <PrivateRoute isAuth={true}  layout={MainLayout} component={Home}  
-          exact auth={true}
+          exact
           path={"*"} />
           {/* <PrivateRoute isAuth={true}  layout={MainLayout} component={Home}  
           exact auth={true}
