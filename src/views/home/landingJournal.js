@@ -56,11 +56,12 @@ export default function LandingJournal() {
                       </span>
                       <br></br>
                       <span className="content-label">
-
+                        ORCID number:
                         <span className="content-label-text">
-                          0000-0002-3222-6288
+                          &nbsp;&nbsp;0000-0002-3222-6288
                         </span>
                       </span>
+
                       {/* <br></br> */}
                       {/* <span className="content-label">
                         Vol 5. Issue 2 - October 2025
@@ -69,36 +70,55 @@ export default function LandingJournal() {
                       <br></br>
                       <span>
                         <p>
-                        Journal of Business, Ethics and Society (JBES) is an
-                        inter-disciplinary bi-annual peer-reviewed journal from
-                        BML Munjal University that publishes theoretical and
-                        empirical research on a broad range of topics concerning
-                        business management, business ethics and societal
-                        well-being. The journal started its operation in 2021.
-                        The double-blind peer-reviewed journal broadly focuses
-                        on the intersectionality of ethics and businesses,
-                        ethics and civil societies, and also on topics such as
-                        corporate social responsibility, social entrepreneurship
-                        and power relationships. Addressing the need for an
-                        ethical response to the emerging challenges and trends
-                        in management, and also challenges in society (such as
-                        pandemics, and world recession) which impact ethical
-                        decisions and behaviour, articles can range from how a
-                        pandemic can lead to ethical dilemmas for leaders in the
-                        medical profession; to how a leader indulging in
-                        greenwashing, or providing misleading information about
-                        so-called environmentally-sound products, could actually
-                        be harming the environment. JBES is a bridge journal,
-                        exploring issues of interest to both researchers as well
-                        as industry leaders and HRM professionals. As such this
-                        journal provides a forum for deliberations and exchange
-                        of ideas and knowledge among academia, businesses,
-                        public institutions, not-for-profit institutions and
-                        government organizations. The journal has an
-                        international focus and welcomes research from all
-                        regions of the world.
+                          Journal of Business, Ethics and Society (JBES) is an
+                          inter-disciplinary bi-annual peer-reviewed journal
+                          from BML Munjal University that publishes theoretical
+                          and empirical research on a broad range of topics
+                          concerning business management, business ethics and
+                          societal well-being. The journal started its operation
+                          in 2021. The double-blind peer-reviewed journal
+                          broadly focuses on the intersectionality of ethics and
+                          businesses, ethics and civil societies, and also on
+                          topics such as corporate social responsibility, social
+                          entrepreneurship and power relationships. Addressing
+                          the need for an ethical response to the emerging
+                          challenges and trends in management, and also
+                          challenges in society (such as pandemics, and world
+                          recession) which impact ethical decisions and
+                          behaviour, articles can range from how a pandemic can
+                          lead to ethical dilemmas for leaders in the medical
+                          profession; to how a leader indulging in greenwashing,
+                          or providing misleading information about so-called
+                          environmentally-sound products, could actually be
+                          harming the environment. JBES is a bridge journal,
+                          exploring issues of interest to both researchers as
+                          well as industry leaders and HRM professionals. As
+                          such this journal provides a forum for deliberations
+                          and exchange of ideas and knowledge among academia,
+                          businesses, public institutions, not-for-profit
+                          institutions and government organizations. The journal
+                          has an international focus and welcomes research from
+                          all regions of the world.
                         </p>
-                        <p>The journal provides immediate open access to its material on the principle that a larger global sharing of knowledge is supported when research is made accessible to everyone. There are no article submission and processing fees. The contents of this journal fall under the Creative Commons license: Attribution-NonCommercial-NoDervis (CC BY-NC-ND). For more information, go to <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><b> https://creativecommons.org/licenses/by-nc-nd/4.0/</b></a></p>
+                        <p>
+                          The journal provides immediate open access to its
+                          material on the principle that a larger global sharing
+                          of knowledge is supported when research is made
+                          accessible to everyone. There are no article
+                          submission and processing fees. The contents of this
+                          journal fall under the Creative Commons license:
+                          Attribution-NonCommercial-NoDervis (CC BY-NC-ND). For
+                          more information, go to{" "}
+                          <a
+                            href="https://creativecommons.org/licenses/by-nc-nd/4.0/"
+                            target="_blank"
+                          >
+                            <b>
+                              {" "}
+                              https://creativecommons.org/licenses/by-nc-nd/4.0/
+                            </b>
+                          </a>
+                        </p>
                       </span>
                     </span>
                   </div>
