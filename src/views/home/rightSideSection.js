@@ -33,13 +33,15 @@ export default function RightSideSection() {
                 <div className="side-heading">
                   
                   <p><a
-                    href="journal-files/call_for_paper_v6_i1.pdf"
+                    href="journal-files/CFP-JBES-SI-7-2_new.pdf"
                     target="_blank"
                   > <strong>Call for Papers</strong>
                      <br/>
                   
-                  Volume 6, Issue 2 ( October 2026) <br/>
-                  <strong>Theme -</strong> Reframing Organizational Purpose: Stakeholder Cognition, Executive Sensemaking, and the Future of Business</a></p>
+                  Volume 7, Issue 1 ( April 2027) <br/>
+                  <strong>Theme -</strong> Ethics, Governance and Organizational Resilience in an Era of persistent Crisis: Rethinking
+
+Business &amp; Societal Transformation</a></p>
 
                 </div>
               </div>
