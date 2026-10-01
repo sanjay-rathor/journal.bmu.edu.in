@@ -38,7 +38,12 @@ export default function RightSideSection() {
                   > <strong>Call for Papers</strong>
                      <br/>
                   
-                  Volume 7, Issue 1 ( April 2027) <br/>
+                  Volume 7, Issue 1<br/> <span
+  className="smallT"
+  style={{ fontSize: "16px" }}
+>
+  (April 2027)
+</span> <br/>
                   <strong>Theme -</strong> Ethics, Governance and Organizational Resilience in an Era of persistent Crisis: Rethinking
 
 Business &amp; Societal Transformation</a></p>
@@ -91,9 +96,13 @@ Business &amp; Societal Transformation</a></p>
                   <Card.Body>
                     <Badge variant="primary">{article.type}</Badge>
                     <Card.Title>
-                      <a href={"/browse-journal-vol-6-issue-1#" + article.title}>
-                        {article.title}
-                      </a>
+                     <a
+  target="_blank"
+  rel="noopener noreferrer"
+  href="journal-files/Book-Review-new.pdf"
+>
+  {article.title}
+</a>
                       
                     </Card.Title>
                     <Card.Text>{article.author.name}</Card.Text>
