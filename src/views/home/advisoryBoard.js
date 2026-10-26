@@ -34,7 +34,9 @@ export default function AdvisoryBoard() {
               </div>
               <div className="col-md-12">
                 <div className="list-group">
-                  {InternaionalEditors.map(function (item, index) {
+                  {InternaionalEditors.filter(
+                    (item) => item.active === true,
+                  ).map(function (item, index) {
                     return (
                       <div className="list-group-item flex-column align-items-start ">
                         <div className="d-flex w-100 justify-content-between name-box">
@@ -42,7 +44,6 @@ export default function AdvisoryBoard() {
                         </div>
                         <p className="mb-1 editor-about">{item.description}</p>
                         <p className="mb-1 editor-about">{item.email}</p>
-                        
                       </div>
                     );
                   })}
