@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7acf3361.css",
+    "main.js": "/static/js/main.d0ab4193.js",
+    "static/media/D3_jbe-100.jpg": "/static/media/D3_jbe-100.0f47e370e4cd11deabee.jpg",
+    "static/media/journal_cover.png": "/static/media/journal_cover.8012aa6281cceb73105a.png",
+    "static/media/bml-color-logo.png": "/static/media/bml-color-logo.39c2c295a1baca304472.png",
+    "static/media/tall_journal_cover.png": "/static/media/tall_journal_cover.9ff1aac68bc24dffa519.png",
+    "static/media/A4.png": "/static/media/A4.2de7cfef271b4be7abbd.png",
+    "static/media/favicon.ico": "/static/media/favicon.c0df4081c538c15ba52b.ico",
+    "static/media/Journal_Horizontal_Stip_ Website.png": "/static/media/Journal_Horizontal_Stip_ Website.3beb12b5b257e52757e2.png",
+    "static/media/pdf.svg": "/static/media/pdf.eda31582ae168098cf3f9304a78e7c19.svg",
+    "index.html": "/index.html",
+    "main.7acf3361.css.map": "/static/css/main.7acf3361.css.map",
+    "main.d0ab4193.js.map": "/static/js/main.d0ab4193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acf3361.css",
+    "static/js/main.d0ab4193.js"
+  ]
+}

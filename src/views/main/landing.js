@@ -29,6 +29,7 @@ import ContactUs from "../home/contactUs";
 import BookCover from "../../images/book-cover-study-education-book store .png";
 import Publisher from "../home/publisher";
 import PublicationEthics from "../home/publicationEthics";
+import OpenAccessPolicies from "../home/openAccessPolicies";
 
 // import classes from "./landing.module.css";
 import Logo from "../../images/bml-color-logo.png";
@@ -50,7 +51,7 @@ export default function Landing(props) {
                   Journal of Business, Ethics and Society
                 </div>
                 <div className="col-md-12 subtile">
-                  {/* The Multidisciplinary Journal of the Society for Business Ethics */}
+                  A peer reviewed open access journal
                 </div>
                 <div className="col-md-8 col-sm-12">
                   <div className="row justify-content-md-center">
@@ -296,7 +297,16 @@ export default function Landing(props) {
                   target="_blank"
                   className="nav-link-tab"
                 >
-                  International Partnership
+                  International Partnerships
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link
+                  eventKey="/open-access-policies"
+                  href="/open-access-policies"
+                  className="nav-link-tab"
+                >
+                  Open Access Policies
                 </Nav.Link>
               </Nav.Item>
             </Nav>
@@ -422,6 +432,11 @@ export default function Landing(props) {
             {currentRoute == "/publication-ethics" && (
               <div className="custom-top-margin custom-bottom-margin">
                 <PublicationEthics />
+              </div>
+            )}
+            {currentRoute == "/open-access-policies" && (
+              <div className="custom-top-margin custom-bottom-margin">
+                <OpenAccessPolicies />
               </div>
             )}
           </div>
